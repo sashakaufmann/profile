@@ -1,6 +1,6 @@
 .quote { font-style: italic; margin: 0 0 0.5ex 0; }
 
-.quoted { font-size: 14px; text-transform: uppercase; font-weight: 700; }
+.quoted { font-size: 14px; font-weight: 700 !important; }
 
 body { margin: 60px auto; font-family: 'Raleway', sans-serif; background-color: #f2f3f2; color: #000000; width: 580px; font-size: 18px; line-height: 26px; }
 
