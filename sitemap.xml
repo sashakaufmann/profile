@@ -1,8 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>/leader-not-boss</loc>
+<lastmod>2019-08-13T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>/emergent-vs-predetermined-design</loc>
+<lastmod>2019-10-23T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>/lost-but-making-good-time</loc>
+<lastmod>2019-11-23T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>/to-improve-we-need-to-step-back</loc>
+<lastmod>2020-01-04T00:00:00+00:00</lastmod>
+</url>
+<url>
 <loc>/endurance-shackletons-incredible-voyage-by-alfred-lansing</loc>
 <lastmod>2020-03-01T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>/what-makes-you-think-that</loc>
+<lastmod>2020-03-03T00:00:00+00:00</lastmod>
+</url>
+<url>
+<loc>/team-topologies-by-matthew-skelton-and-manuel-pais</loc>
+<lastmod>2020-04-05T00:00:00+01:00</lastmod>
 </url>
 <url>
 <loc>/the-spy-and-the-traitor-by-ben-macyntyre</loc>
@@ -59,7 +83,13 @@
 <loc>/grow-food</loc>
 </url>
 <url>
+<loc>/improvement</loc>
+</url>
+<url>
 <loc>/</loc>
+</url>
+<url>
+<loc>/leadership</loc>
 </url>
 <url>
 <loc>/notes</loc>

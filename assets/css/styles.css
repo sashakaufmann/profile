@@ -1,3 +1,4 @@
+@charset "UTF-8";
 .quote { font-style: italic; margin: 0 0 0.5ex 0; }
 
 .quoted { font-size: 14px; font-weight: 700 !important; }
@@ -47,6 +48,12 @@ li { margin: 0 0 0 20px; padding: 0; }
 .cover-left { width: 49%; float: left; padding-right: 2%; }
 
 .cover-right { width: 49%; float: left; }
+
+blockquote { background: #f9f9f9; border-left: 10px solid #ccc; margin: 1.5em 10px; padding: 0.5em 10px; quotes: "“" "”" "‘" "’"; }
+
+blockquote:before { color: #ccc; content: open-quote; font-size: 4em; line-height: 0.1em; margin-right: 0.25em; vertical-align: -0.4em; }
+
+blockquote p { display: inline; }
 
 /*@import "bootstrap-grid";
 @import "bootstrap-reboot"; */
