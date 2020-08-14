@@ -36,6 +36,8 @@ a { color: #000000; font-weight: bold; }
 
 a:hover { color: black; text-decoration: none; }
 
+.cat { color: #0e56de; }
+
 p { margin: 0 0 2ex 0; }
 
 ul { margin: 0 0 2ex 0; padding: 0; }
