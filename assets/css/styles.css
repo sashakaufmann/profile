@@ -55,6 +55,8 @@ blockquote:before { color: #ccc; content: open-quote; font-size: 4em; line-heigh
 
 blockquote p { display: inline; }
 
+.copyright { float: right; }
+
 /*@import "bootstrap-grid";
 @import "bootstrap-reboot"; */
 
