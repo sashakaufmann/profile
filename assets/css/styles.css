@@ -61,6 +61,8 @@ blockquote p { display: inline; }
 
 .related-title { margin-block-end: 0em; }
 
+.lead-image { margin: 0 0 2ex 0; }
+
 /*@import "bootstrap-grid";
 @import "bootstrap-reboot"; */
 
