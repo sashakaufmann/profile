@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-08-18T09:29:11+01:00</updated><id>/feed.xml</id><subtitle>Sasha Kaufmann's profile website and article archive.</subtitle><entry><title type="html">A guide to happiness - teachings of Epicurus</title><link href="/guide-to-happiness-teachings-epicurus" rel="alternate" type="text/html" title="A guide to happiness - teachings of Epicurus" /><published>2020-08-17T00:00:00+01:00</published><updated>2020-08-17T00:00:00+01:00</updated><id>/guide-to-happiness-teachings-epicurus</id><content type="html" xml:base="/guide-to-happiness-teachings-epicurus">&lt;p&gt;Over 2000 years have passed since Epicurus wrote these teachings, yet they still provide great insight into how to live happily. The best are: “Nothing satisfies him for whom enough is too little”; “if you wish to make Pythocles rich, be not adding to do his money but subtracting from his desires” and “the greatest fruit of self-sufficiency is freedom”.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2020-08-18T16:10:30+01:00</updated><id>/feed.xml</id><subtitle>Sasha Kaufmann's profile website and article archive.</subtitle><entry><title type="html">A guide to happiness - teachings of Epicurus</title><link href="/guide-to-happiness-teachings-epicurus" rel="alternate" type="text/html" title="A guide to happiness - teachings of Epicurus" /><published>2020-08-17T00:00:00+01:00</published><updated>2020-08-17T00:00:00+01:00</updated><id>/guide-to-happiness-teachings-epicurus</id><content type="html" xml:base="/guide-to-happiness-teachings-epicurus">&lt;p&gt;Over 2000 years have passed since Epicurus wrote these teachings, yet they still provide great insight into how to live happily. The best are: “Nothing satisfies him for whom enough is too little”; “if you wish to make Pythocles rich, be not adding to do his money but subtracting from his desires” and “the greatest fruit of self-sufficiency is freedom”.&lt;/p&gt;
 
 &lt;!--more--&gt;
 &lt;hr /&gt;
@@ -913,7 +913,9 @@
 &lt;h2 id=&quot;my-notes&quot;&gt;My notes&lt;/h2&gt;
 
 &lt;ul&gt;
-  &lt;li&gt;Split into 4 “Books”&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Split into 4 “Books”&lt;/p&gt;
+  &lt;/li&gt;
   &lt;li&gt;
     &lt;h3 id=&quot;book-1-introduction-to-the-concept&quot;&gt;Book 1: Introduction to the concept&lt;/h3&gt;
     &lt;ul&gt;
@@ -925,34 +927,34 @@
   &lt;li&gt;
     &lt;h3 id=&quot;book-2-denial-of-antifragility-and-its-manifestation-in-naive-interventionism&quot;&gt;Book 2: Denial of antifragility and it’s manifestation in naive interventionism&lt;/h3&gt;
     &lt;ul&gt;
-      &lt;li&gt;[[The Procrustean Bed]] used an example. We chop and stretch things to fit our world.&lt;/li&gt;
-      &lt;li&gt;“&lt;strong&gt;Subsidiarity&lt;/strong&gt; is a principle of social organisation that holds that social and political issues should be dealt with at the most immediate (or local) level that is consistent with their resolution.” (https://en.wikipedia.org/wiki/Subsidiarity) General principle of [[European Union]] law - this is linked to [[Decentralisation]]&lt;/li&gt;
-      &lt;li&gt;[[Switzerland]] - collection of small municipalities that have enmity. Is antifragile. Small volatile mini states but [[stable]] on an aggregate level.&lt;/li&gt;
+      &lt;li&gt;The Procrustean Bed used an example. We chop and stretch things to fit our world.&lt;/li&gt;
+      &lt;li&gt;“&lt;strong&gt;Subsidiarity&lt;/strong&gt; is a principle of social organisation that holds that social and political issues should be dealt with at the most immediate (or local) level that is consistent with their resolution.” (https://en.wikipedia.org/wiki/Subsidiarity) General principle of European Union law - this is linked to Decentralisation&lt;/li&gt;
+      &lt;li&gt;Switzerland - collection of small municipalities that have enmity. Is antifragile. Small volatile mini states but stable on an aggregate level.&lt;/li&gt;
       &lt;li&gt;Principle-Agent problem. When the one providing the services’ interests are divorced from those using his services.&lt;/li&gt;
-      &lt;li&gt;Naive [[Interventionism]] makes things fragile. Doctors overprescribing patients. Prevention of small forest fires which causes buildup of material that creates massive ones. Greenspan or Gordon Brown smoothing the booms and busts in economies that just made the eventual collapse of 2008 bigger. Bush in the Iraq war post 9/11. Other times more intervention is needed, such as with the environment. We need a systemic protocol to determine when to intervene and when to leave systems alone. #[[Systems Thinking]]
+      &lt;li&gt;Naive Interventionism makes things fragile. Doctors overprescribing patients. Prevention of small forest fires which causes buildup of material that creates massive ones. Greenspan or Gordon Brown smoothing the booms and busts in economies that just made the eventual collapse of 2008 bigger. Bush in the Iraq war post 9/11. Other times more intervention is needed, such as with the environment. We need a systemic protocol to determine when to intervene and when to leave systems alone.
         &lt;ul&gt;
           &lt;li&gt;Drachten effect - in the Dutch town they took away street signs, made it safer since people had to concentrate more.&lt;/li&gt;
-          &lt;li&gt;Nowadays there is more and more noise drowning out the signal - ie more data means more noise. Best way to mitigate naive interventionism is to ration the supply of information as naturalistically as possible. Science does not mean more data. #Data&lt;/li&gt;
+          &lt;li&gt;Nowadays there is more and more noise drowning out the signal - ie more data means more noise. Best way to mitigate naive interventionism is to ration the supply of information as naturalistically as possible. Science does not mean more data.&lt;/li&gt;
           &lt;li&gt;Other examples of intervention causing harm. The Chinese famine between ‘59 and ‘61 that killed 30 million people.&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;[[Iatrogenics]]: where treatment causes more harm than benefit. Like blood letting of George Washington to ‘cure’ him.&lt;/li&gt;
+      &lt;li&gt;Iatrogenics: where treatment causes more harm than benefit. Like blood letting of George Washington to ‘cure’ him.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;h3 id=&quot;book-3-asymmetry-the-barbell-strategy---8020-rule&quot;&gt;Book 3: Asymmetry. The barbell strategy - 80/20 rule.&lt;/h3&gt;
     &lt;ul&gt;
-      &lt;li&gt;Talks [[Seneca]] - creating more upside than downside. Don’t go for the ‘middle’ where there is risk of ruin. Go for maximally safe and maximally speculative (80/20). #investment. Pure action and pure reflection.&lt;/li&gt;
+      &lt;li&gt;Talks Seneca - creating more upside than downside. Don’t go for the ‘middle’ where there is risk of ruin. Go for maximally safe and maximally speculative (80/20). Pure action and pure reflection.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
     &lt;h3 id=&quot;book-4-optionality-technology-and-the-intelligence-of-antifragility&quot;&gt;Book 4: Optionality, technology and the intelligence of antifragility.&lt;/h3&gt;
     &lt;ul&gt;
-      &lt;li&gt;Observes we are in a complex, non linear world, we don’t know what works and people don’t know what they want. [[Apple]] built the iPhone, they didn’t ask people if they wanted one.&lt;/li&gt;
+      &lt;li&gt;Observes we are in a complex, non linear world, we don’t know what works and people don’t know what they want. Apple built the iPhone, they didn’t ask people if they wanted one.&lt;/li&gt;
       &lt;li&gt;Basically says to have options with limited downside but that have high potential upside. Like Thales and his rental of the olive presses.&lt;/li&gt;
       &lt;li&gt;I find this identical to the way things are done in new product development. You need to have the option, you need to have the intelligence to spot when to cash in / when it’s not working etc.&lt;/li&gt;
-      &lt;li&gt;Talks about [[Epiphenomenon]]: secondary phenomenon that occurs alongside or in parallel to a primary phenomenon - can be mistaken for the cause. Uses the example of the assumption that education-&amp;gt; increase in GDP, when actually prosperity leads to increase in education.&lt;/li&gt;
-      &lt;li&gt;[[Heuristic]] are valuable. Not only survived due to their own effectiveness, they survived because people that used them survived.
+      &lt;li&gt;Talks about Epiphenomenon: secondary phenomenon that occurs alongside or in parallel to a primary phenomenon - can be mistaken for the cause. Uses the example of the assumption that education-&amp;gt; increase in GDP, when actually prosperity leads to increase in education.&lt;/li&gt;
+      &lt;li&gt;Heuristic are valuable. Not only survived due to their own effectiveness, they survived because people that used them survived.
         &lt;ul&gt;
           &lt;li&gt;Architects relied on them, Romans didn’t use maths to build aqua-ducts. Empirical methods and tools used. Cathedrals built with small tricks and rules. Innovation through practice - theory comes later.&lt;/li&gt;
         &lt;/ul&gt;
@@ -964,16 +966,16 @@
           &lt;li&gt;-their use today was not predicted. All examples are anti-teleology, that is contrary to the idea of an “explanation of phenomena in terms of the purpose they serve rather than of the cause by which they arise.”&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;[[Heuristic]]:”..the kind of knowledge that comes out of a master guiding his apprentices”.
+      &lt;li&gt;Heuristic:”..the kind of knowledge that comes out of a master guiding his apprentices”.
         &lt;ul&gt;
           &lt;li&gt;Cooking provides a great example of applying heuristics over theory.&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;Venture capitalists say “you bet on the jockey, not the horse”. Innovations drift, it is the individuals that can sport the new opportunities and pivot, take advantage, that do well - not the initial idea. #investment #[[Diversification of investments]] #adaptability #innovation&lt;/li&gt;
-      &lt;li&gt;“The right approach requires a certain style of blind funding”. “The payoff can be so large that you can’t afford not to be in everything”. #innovation #investment #funding #[[Beyond Budgeting]]&lt;/li&gt;
-      &lt;li&gt;“Collaboration has explosive upside.” 1+1 is more than 2, exponentially. Superadditive function. #collaboration&lt;/li&gt;
-      &lt;li&gt;“No evidence that strategic planning works…we seem to have evidence against it”p234. “It makes corporations option-blind, as it get’s locked in to a opportunistic course of action. See William Starbuck’s work. #planning #[[Beyond Budgeting]] #funding&lt;/li&gt;
-      &lt;li&gt;Examples of pivoting, changing industries, not following a plan. #pivots #planning #agility #adaptability
+      &lt;li&gt;Venture capitalists say “you bet on the jockey, not the horse”. Innovations drift, it is the individuals that can sport the new opportunities and pivot, take advantage, that do well - not the initial idea.&lt;/li&gt;
+      &lt;li&gt;“The right approach requires a certain style of blind funding”. “The payoff can be so large that you can’t afford not to be in everything”.&lt;/li&gt;
+      &lt;li&gt;“Collaboration has explosive upside.” 1+1 is more than 2, exponentially. Superadditive function.&lt;/li&gt;
+      &lt;li&gt;“No evidence that strategic planning works…we seem to have evidence against it”p234. “It makes corporations option-blind, as it get’s locked in to a opportunistic course of action. See William Starbuck’s work.&lt;/li&gt;
+      &lt;li&gt;Examples of pivoting, changing industries, not following a plan.
         &lt;ul&gt;
           &lt;li&gt;Coca cola started as a medicine&lt;/li&gt;
           &lt;li&gt;Tiffany &amp;amp; Co was a stationary store&lt;/li&gt;
@@ -984,7 +986,7 @@
           &lt;li&gt;Oneida Silversmiths was a community religious cult who started a company for regulatory reasons&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Evidence of absence is not absence of evidence&lt;/strong&gt;. #empiricism #science&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Evidence of absence is not absence of evidence&lt;/strong&gt;.&lt;/li&gt;
       &lt;li&gt;&lt;strong&gt;For the antifragile, good news tends to be absent from past data, and for the fragile it is the bad news that doesn’t show easily&lt;/strong&gt;&lt;/li&gt;
       &lt;li&gt;Two distinct payoffs - you want bounded left with unlimited right. Not the reverse.
         &lt;ul&gt;
@@ -995,7 +997,7 @@
               &lt;li&gt;Checking people at airports, incase there are terrorists. We check because we are fragile to terrorism. Asymmetry.&lt;/li&gt;
               &lt;li&gt;Spend millions on safety of nuclear reactors.&lt;/li&gt;
               &lt;li&gt;Do you think this random medicine will harm you. No. But do you ingest pills? No, no, no.&lt;/li&gt;
-              &lt;li&gt;&lt;strong&gt;“The probability (hence True/false) does not work in the real world,; it is the payoff that matters”.&lt;/strong&gt; #
+              &lt;li&gt;&lt;strong&gt;“The probability (hence True/false) does not work in the real world,; it is the payoff that matters”.&lt;/strong&gt;
                 &lt;ul&gt;
                   &lt;li&gt;Modify your exposure, rather than learn to predict better.&lt;/li&gt;
                 &lt;/ul&gt;
@@ -1011,7 +1013,7 @@
           &lt;li&gt;We must embrace the randomness to be antifragile&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Education&lt;/strong&gt; #education
+      &lt;li&gt;&lt;strong&gt;Education&lt;/strong&gt;
         &lt;ul&gt;
           &lt;li&gt;Follow what interests you. Following a curriculum makes you a robot and you loose creativity and important links that other’s don’t see.&lt;/li&gt;
           &lt;li&gt;When you get board, jump to something else.&lt;/li&gt;
@@ -1019,7 +1021,7 @@
           &lt;li&gt;This will set you for life rather than the classroom.&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Knowledge&lt;/strong&gt; #knowledge
+      &lt;li&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;
         &lt;ul&gt;
           &lt;li&gt;Narrated, intelligible knowledge. School curriculums.&lt;/li&gt;
           &lt;li&gt;Opaque, probed by tinkering - heuristics. Error of thinking that things always have a reason that is intelligible to us.&lt;/li&gt;
@@ -1027,7 +1029,7 @@
           &lt;li&gt;Similar to the turkey problem, mistaking what we don’t see for the nonexistent. Sibling to mistaking absence of evidence for evidence of absence.&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
-      &lt;li&gt;Quotes/talks about [[Nietzsche]] quite a bit.&lt;/li&gt;
+      &lt;li&gt;Quotes/talks about Nietzsche quite a bit.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
   &lt;li&gt;
@@ -1038,7 +1040,7 @@
         &lt;ul&gt;
           &lt;li&gt;Gains from size of corporations are highly visible, but risks are hidden.&lt;/li&gt;
           &lt;li&gt;Why so many mergers fail.&lt;/li&gt;
-          &lt;li&gt;Bent Flyvbjerg has shown that increase in size of projects maps to poor outcomes and higher costs of delays as a proportion of total budget. There is nuance - it is size per segment. Meaning breaking down projects helps prevent this. Which is why roads fare well. #project-management #forecasting #planning
+          &lt;li&gt;Bent Flyvbjerg has shown that increase in size of projects maps to poor outcomes and higher costs of delays as a proportion of total budget. There is nuance - it is size per segment. Meaning breaking down projects helps prevent this. Which is why roads fare well.
             &lt;ul&gt;
               &lt;li&gt;Projects of 100 million dollars are more unpredictable than projects of 5 million. Higher unpredictability and fragility. More unknowns, more interrelationships.&lt;/li&gt;
             &lt;/ul&gt;
@@ -1047,12 +1049,12 @@
           &lt;li&gt;Todays world -complexity, interdependence, globalisation increases Black Swan effects, efficiency makes people sail too close to the wind.&lt;/li&gt;
           &lt;li&gt;Projects tend to be as weak as the weakest link in the chain.&lt;/li&gt;
           &lt;li&gt;If uncertainty were linear we would see some projects completed extremely early. This is not the case.&lt;/li&gt;
-          &lt;li&gt;Complexity plus asymmetry can lead to explosive errors
+          &lt;li&gt;Complexity plus asymmetry can lead to explosive errors.
             &lt;ul&gt;
               &lt;li&gt;The Great War, WWII, US war in Iraq. Indirect costs multiply.&lt;/li&gt;
             &lt;/ul&gt;
           &lt;/li&gt;
-          &lt;li&gt;The fragility in any domain resides in the nonlinear&lt;/li&gt;
+          &lt;li&gt;The fragility in any domain resides in the nonlinear.&lt;/li&gt;
         &lt;/ul&gt;
       &lt;/li&gt;
     &lt;/ul&gt;
@@ -1060,8 +1062,8 @@
   &lt;li&gt;
     &lt;h3 id=&quot;book-6-via-negativa&quot;&gt;Book 6: Via negativa&lt;/h3&gt;
     &lt;ul&gt;
-      &lt;li&gt;[[Subtraction]], Via negativa, can be more powerful than addition.&lt;/li&gt;
-      &lt;li&gt;“More data - such as paying attention to the eye colours of people around when crossing the street - can make you miss the big truck.” #Data&lt;/li&gt;
+      &lt;li&gt;Subtraction, Via negativa, can be more powerful than addition.&lt;/li&gt;
+      &lt;li&gt;“More data - such as paying attention to the eye colours of people around when crossing the street - can make you miss the big truck.”&lt;/li&gt;
       &lt;li&gt;Antifragility implies that the old is superior to the new.
         &lt;ul&gt;
           &lt;li&gt;“Time has sharp teeth that destroy everything”. - Simonides of Ceos #time&lt;/li&gt;
@@ -1071,18 +1073,18 @@
       &lt;li&gt;Information hides failures - we hear about success stories. Investors are led to overestimate chances of success.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;“Read as little as feasible from the last twenty years, except history books that are not about the last fifty years”. Read the classics - Lindy effect! - New books outdate fast. #learning #life-hacks #reading #tips&lt;/li&gt;
-  &lt;li&gt;“The good is mostly in the absence of bad” [[Ennius]] #quote #good&lt;/li&gt;
-  &lt;li&gt;“Sometimes scantiness of nourishment restores the system” - [[Plotinus]] #quote #health&lt;/li&gt;
-  &lt;li&gt;Caloric restriction as the one key way to lengthen lives. #health&lt;/li&gt;
+  &lt;li&gt;“Read as little as feasible from the last twenty years, except history books that are not about the last fifty years”. Read the classics - Lindy effect! - New books outdate fast.&lt;/li&gt;
+  &lt;li&gt;“The good is mostly in the absence of bad” Ennius&lt;/li&gt;
+  &lt;li&gt;“Sometimes scantiness of nourishment restores the system” - Plotinus&lt;/li&gt;
+  &lt;li&gt;Caloric restriction as the one key way to lengthen lives.&lt;/li&gt;
   &lt;li&gt;&lt;strong&gt;People who construct or oversee a system must be fully responsible for it&lt;/strong&gt;
     &lt;ul&gt;
-      &lt;li&gt;[[Hammurabi’s code]] - 229 If a &lt;strong&gt;builder&lt;/strong&gt; builds a house for someone, and does not construct it properly, and the house which he built falls in and kills its owner, then that &lt;strong&gt;builder&lt;/strong&gt; shall be put to death. #responsibility&lt;/li&gt;
+      &lt;li&gt;Hammurabi’s code - 229 If a &lt;strong&gt;builder&lt;/strong&gt; builds a house for someone, and does not construct it properly, and the house which he built falls in and kills its owner, then that &lt;strong&gt;builder&lt;/strong&gt; shall be put to death.&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-  &lt;li&gt;“He who does not stop a crime is an accomplice.” - [[Publilius Syrus]] #quote #integrity #ethics #guilt&lt;/li&gt;
+  &lt;li&gt;“He who does not stop a crime is an accomplice.” - Publilius Syrus&lt;/li&gt;
   &lt;li&gt;Globalisation brings fragilities and requires a great deal of redundancies to operate properly.&lt;/li&gt;
-  &lt;li&gt;“Don’t be fooled by money. These are just numbers. Being self-owned is a state of mind.” - Said by Fat Tony - #quote #happiness #freedom&lt;/li&gt;
+  &lt;li&gt;“Don’t be fooled by money. These are just numbers. Being self-owned is a state of mind.” - Fat Tony&lt;/li&gt;
 &lt;/ul&gt;</content><author><name>sash</name></author><category term="notes" /><category term="risk" /><category term="critical" /><category term="complexity" /><category term="systems" /><summary type="html">Taleb’s style is rough around the edges. That’s what’s so refreshing about him and his work. We need outsiders; challenging the status quo, providing different perspectives and calling out bullshit. Antifragile takes us across disciplines to look at what’s causing fragility in our systems and economies, why and how we can resolve them using the concept of antifragility.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/antifragile.jpg" /><media:content medium="image" url="/antifragile.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Forty Stories - by Anton Chekhov</title><link href="/forty-stories-anton-chekhov" rel="alternate" type="text/html" title="Forty Stories - by Anton Chekhov" /><published>2020-04-11T00:00:00+01:00</published><updated>2020-04-11T00:00:00+01:00</updated><id>/forty%20stories-anton%20chekhov</id><content type="html" xml:base="/forty-stories-anton-chekhov">&lt;p&gt;A brilliant collection; Chekhov is master of the short story. In a few pages, he can bring you closer to a character than many authors can over the course of a novel. These stories add up to a vivid picture of 19th century Russia with a patchwork of characters spanning classes. Kindness, innocence, guilt, miserliness and cruelty are all on display in sometimes surprising and somewhat shocking situations. Personally I found The Little Apples, The Ninny, The Huntsman, The Malefactor, The Peasant Women, After the Theatre, The Lady with the Pet Dog and The Bride to be the most interesting.&lt;/p&gt;
 
 &lt;!--more--&gt;
