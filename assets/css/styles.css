@@ -69,6 +69,8 @@ blockquote p { display: inline; }
 
 #li-social { margin-left: 5px; margin-right: 5px; }
 
+.tweet-me { font-size: smaller; font-style: italic; }
+
 /*@import "bootstrap-grid";
 @import "bootstrap-reboot"; */
 
