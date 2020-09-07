@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://kaufie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kaufie.com/" rel="alternate" type="text/html" /><updated>2020-09-07T15:03:48+01:00</updated><id>https://kaufie.com/feed.xml</id><subtitle>Sasha Kaufmann's profile website and article archive.</subtitle><entry><title type="html">CHAPTER 2 - What to measure</title><link href="https://kaufie.com/what-to-measure" rel="alternate" type="text/html" title="CHAPTER 2 - What to measure" /><published>2020-09-06T00:00:00+01:00</published><updated>2020-09-06T00:00:00+01:00</updated><id>https://kaufie.com/what-to-measure</id><content type="html" xml:base="https://kaufie.com/what-to-measure">&lt;p&gt;&lt;a href=&quot;/options-and-outcomes&quot;&gt;&amp;lt; previous page (CHAPTER 1 - Options and Outcomes)&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://kaufie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kaufie.com/" rel="alternate" type="text/html" /><updated>2020-09-07T17:29:51+01:00</updated><id>https://kaufie.com/feed.xml</id><subtitle>Sasha Kaufmann's profile website and article archive.</subtitle><entry><title type="html">CHAPTER 2 - What to measure</title><link href="https://kaufie.com/what-to-measure" rel="alternate" type="text/html" title="CHAPTER 2 - What to measure" /><published>2020-09-06T00:00:00+01:00</published><updated>2020-09-06T00:00:00+01:00</updated><id>https://kaufie.com/what-to-measure</id><content type="html" xml:base="https://kaufie.com/what-to-measure">&lt;p&gt;&lt;a href=&quot;/options-and-outcomes&quot;&gt;&amp;lt; previous page (CHAPTER 1 - Options and Outcomes)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;what-should-we-measure&quot;&gt;What should we measure?&lt;/h2&gt;
 
@@ -28,7 +28,58 @@
 
 &lt;p&gt;&lt;i&gt;[2] Velocity is a metric used by some Scrum teams: the number of ‘story points’ completed within a sprint. More on this later.&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/use-cases-for-metrics&quot;&gt;next page (Use Cases for Metrics) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Chapter 2 looks at what to measure in your organisation.</summary></entry><entry><title type="html">CHAPTER 2 - What to measure</title><link href="https://kaufie.com/good-bad-ugly" rel="alternate" type="text/html" title="CHAPTER 2 - What to measure" /><published>2020-09-06T00:00:00+01:00</published><updated>2020-09-06T00:00:00+01:00</updated><id>https://kaufie.com/good-bad-ugly</id><content type="html" xml:base="https://kaufie.com/good-bad-ugly">&lt;p&gt;&lt;a href=&quot;/use-cases-for-metrics&quot;&gt;&amp;lt; previous page (Use Cases for Metrics)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/use-cases-for-metrics&quot;&gt;next page (Use Cases for Metrics) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Chapter 2 looks at what to measure in your organisation.</summary></entry><entry><title type="html">CHAPTER 3 - Orient</title><link href="https://kaufie.com/understanding-context" rel="alternate" type="text/html" title="CHAPTER 3 - Orient" /><published>2020-09-06T00:00:00+01:00</published><updated>2020-09-06T00:00:00+01:00</updated><id>https://kaufie.com/understanding%20context</id><content type="html" xml:base="https://kaufie.com/understanding-context">&lt;p&gt;&lt;a href=&quot;/orient&quot;&gt;&amp;lt; previous page (Orient)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;understanding-context&quot;&gt;Understanding context&lt;/h2&gt;
+
+&lt;p&gt;How you deliver, and how you measure progress depends on the level of complexity of the domain you’re working in. Like the well known saying; “Horses for courses” - you need to assess the approach depending on the situation.&lt;/p&gt;
+
+&lt;p&gt;In their paper &lt;i&gt;“A Leader’s Framework for Decision Making”&lt;/i&gt; David Snowden and Mary Boone introduce Cynefin[1] and the five contexts; simple, complicated, complex, chaotic and disorder. For the purposes of this book, we’re interested in the contrast between the simple, the complicated and the complex in guiding our decisions on delivery.&lt;/p&gt;
+
+&lt;p&gt;The &lt;b&gt;Simple&lt;/b&gt; context is stable and predictable. This is the domain of best practice - we know what works and generally there’s one clear way of doing it. Leaders should assess the facts of the situation, categorise the work and identify the best practice that fits. An off the shelf delivery plan can be followed with accuracy.&lt;/p&gt;
+
+&lt;p&gt;The &lt;b&gt;Complicated&lt;/b&gt; context is the &lt;i&gt;“domain of experts”&lt;/i&gt;. Here there tend to be multiple right answers. The cause and effect relationship is clear but not to everyone, which is why this domain has specialists who may advise on differing good practice. For this reason after assessing facts, analysis is needed in order to find a solution. A good way to picture the complicated context is as a machine. A driver may notice a problem, but it would take a mechanic to diagnose it. Although not straightforward for the average driver, there are manuals documenting every inch of the car  and the mechanic should be able to take it apart and put it back together. In delivery, with the right expertise complicated work follows a plan, but the more components there are, the greater need there is for regular integration to ensure the end result will work.&lt;/p&gt;
+
+&lt;p&gt;The &lt;b&gt;Complex&lt;/b&gt; context is &lt;i&gt;“emergent”&lt;/i&gt;. There are no known answers. We need to probe - run some experiments - try some approaches, sense the impact these have made, and respond based on what we’ve learned. It requires patience and toleration of failure so that the right approach emerges, which leads to the results. For the contrast between complex and complicated, view the complex as more like an ecosystem. Changes in climate or the removal of one part of an ecosystem can have big, hard to predict knock on effects. We’ll see that more often organisations are situated in the complex context. A plan to take us to the outcome cannot exist in this context as by definition, the right way will need to be discovered with a test and learn approach.&lt;/p&gt;
+
+&lt;p&gt;The contexts border upon each other, and problems occur when a mis-categorisation leads to the wrong approach. An expert may apply their good practice on a complex context that requires a more iterative, trial and error process. This can lead to massive waste and failure to achieve the goal. We cannot accurately predict the result of our actions when dealing with the Complex, which is why we must test and learn. The Agile and Business consultancy industry is full of well meaning individuals with &lt;i&gt;“man with a hammer syndrome”[2]&lt;/i&gt; when the same solution (usually an off the shelf scaling framework) is applied to every problem.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;[1] Snowden, D. J., and M.E. Boone. ‘A Leader’s Framework for Decision Making’. Harvard Business Review 85, no. 11 (2007): 68–76.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;[2] “..it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail.” - Abraham Maslow in The Psychology of Science: A Reconnaissance (1966)&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/measure-orient&quot;&gt;next page (Measuring Orient) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Developing the organisational ability to Orient.</summary></entry><entry><title type="html">CHAPTER 3 - Orient</title><link href="https://kaufie.com/orient" rel="alternate" type="text/html" title="CHAPTER 3 - Orient" /><published>2020-09-06T00:00:00+01:00</published><updated>2020-09-06T00:00:00+01:00</updated><id>https://kaufie.com/orient</id><content type="html" xml:base="https://kaufie.com/orient">&lt;p&gt;&lt;a href=&quot;/good-bad-ugly&quot;&gt;&amp;lt; previous page (The Good, the Bad and the Ugly)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;orient-the-ability-to-measure-where-you-are-in-relation-to-where-you-want-to-be&quot;&gt;Orient: the ability to measure where you are in relation to where you want to be&lt;/h2&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“What gets measured gets managed - even when it’s pointless to measure and manage it, and even if it harms the purpose of the organisation to do so.”
+ 	&lt;br /&gt;&lt;i&gt;-Edward Deming&lt;/i&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;What should leadership be looking at to gauge progress?&lt;/p&gt;
+
+&lt;p&gt;We’ve already seen that any measurement needs to provide us with information that helps decide what to do next.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-job-of-senior-management&quot;&gt;The job of Senior Management&lt;/h3&gt;
+
+&lt;p&gt;Only measure something if you are prepared to act on it.&lt;/p&gt;
+
+&lt;p&gt;Leadership’s job is to help teams to do their best work, to create an environment where they can excel, provide clarity of purpose and remove blockers in order for them to achieve business outcomes. Clearly to provide this support you have to know how things are progressing. This measure provides a signal as to where your help, or a decision might be needed.&lt;/p&gt;
+
+&lt;p&gt;In many contexts (but not all), teams should be as autonomous as possible. Being closest to the work, and most knowledgeable about it, they’re often best placed to make decisions. The availability of information makes the decisions better, and faster too since they don’t need to pass information up the chain and wait for it to come down. I’m not saying that leadership should be over eager, on edge and jumping in at the first sign of an issue - or distrust that teams will come to them. I’m saying that there needs to be a decent feedback loop in place for management to gain awareness, give (and receive) feedback, and proactively provide support.&lt;/p&gt;
+
+&lt;p&gt;The information should lead to &lt;b&gt;5 questions related to progress:&lt;/b&gt;&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;If teams are struggling to show progress, are there obstacles we can remove?&lt;/li&gt;
+  &lt;li&gt;Is there something we can provide, or do, to help them move forward?&lt;/li&gt;
+  &lt;li&gt;Do they need our support to move in another direction, having identified that the work isn’t providing the expected outcome?&lt;/li&gt;
+  &lt;li&gt;Are we recognising great work and celebrating success?&lt;/li&gt;
+  &lt;li&gt;Is this sustainable? Progress at the expense of health due to overwork or stress can’t be maintained and is unethical. If it isn’t sustainable and it’s hurting people, intervention is needed.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;/understanding-context&quot;&gt;next page (Developing Orient) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Chapter 3 looks at how we develop and measure the abitlity to Orient.</summary></entry><entry><title type="html">CHAPTER 2 - What to measure</title><link href="https://kaufie.com/good-bad-ugly" rel="alternate" type="text/html" title="CHAPTER 2 - What to measure" /><published>2020-09-06T00:00:00+01:00</published><updated>2020-09-06T00:00:00+01:00</updated><id>https://kaufie.com/good-bad-ugly</id><content type="html" xml:base="https://kaufie.com/good-bad-ugly">&lt;p&gt;&lt;a href=&quot;/use-cases-for-metrics&quot;&gt;&amp;lt; previous page (Use Cases for Metrics)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;the-good-the-bad-and-the-ugly&quot;&gt;The Good, the Bad and the Ugly&lt;/h2&gt;
 
@@ -42,13 +93,127 @@
 
 &lt;p&gt;In future pages we’ll revisit the Good, Bad and Ugly pattern in relation to metrics associated with abilities discussed in this book.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/use-cases-for-metrics&quot;&gt;next page (introducing our first Organisational Ability: ORIENT) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Chapter 2 looks at what to measure in your organisation.</summary></entry><entry><title type="html">CHAPTER 2 - What to measure</title><link href="https://kaufie.com/use-cases-for-metrics" rel="alternate" type="text/html" title="CHAPTER 2 - What to measure" /><published>2020-09-06T00:00:00+01:00</published><updated>2020-09-06T00:00:00+01:00</updated><id>https://kaufie.com/use-cases-for-metrics</id><content type="html" xml:base="https://kaufie.com/use-cases-for-metrics">&lt;p&gt;&lt;a href=&quot;/what-to-measure&quot;&gt;&amp;lt; previous page (What Should we Measure?)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/orient&quot;&gt;next page (introducing our first Organisational Ability: Orient) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Chapter 2 looks at what to measure in your organisation.</summary></entry><entry><title type="html">CHAPTER 3 - Orient</title><link href="https://kaufie.com/applying-approach-to-context" rel="alternate" type="text/html" title="CHAPTER 3 - Orient" /><published>2020-09-06T00:00:00+01:00</published><updated>2020-09-06T00:00:00+01:00</updated><id>https://kaufie.com/applying-approach-to-context</id><content type="html" xml:base="https://kaufie.com/applying-approach-to-context">&lt;p&gt;&lt;a href=&quot;/understanding-context&quot;&gt;&amp;lt; previous page (Understanding Context)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;applying-approach-to-context&quot;&gt;Applying Approach to Context&lt;/h2&gt;
+
+&lt;p&gt;Let’s now look at how to approach measurement of progress in the different contexts.&lt;/p&gt;
+
+&lt;h3 id=&quot;measuring-progress-when-work-is-simple-or-complicated&quot;&gt;Measuring progress when work is Simple or Complicated&lt;/h3&gt;
+
+&lt;p&gt;I contracted a builder to convert our loft into a bedroom. He’s done this before in very similar houses. The high level &lt;b&gt;outcome&lt;/b&gt; I wanted was space and value (since house prices go up with an additional bedroom). I could have achieved the same outcome by building a basement, an extension, a conservatory or a cabin in the garden. I had &lt;b&gt;options&lt;/b&gt;. The option I opted for was a loft conversion. The builder performed &lt;i&gt;actions&lt;/i&gt; to create the &lt;i&gt;output&lt;/i&gt;, which realised the option; the converted loft.&lt;/p&gt;
+
+&lt;p&gt;I needed to keep track of both the state of the option (completion of the conversion) and the outcome (whether this would give me space and value). If the loft doesn’t get converted then I have no outcome, so if I don’t follow progress how do I know that any work is happening? You may think you would just wait for them to finish the job. But would you wait indefinitely, or pay any price? I had to measure progress to some extent (I hadn’t used the builder before, and I’m not what the cowboys would call a ‘sucker’). In this case, I could measure progress by the builder checking in with me to tell me what he expected to have done at a given moment, and where he was actually.&lt;/p&gt;
+
+&lt;p&gt;Tracking the output is pretty easy in this linear and predictable example. But then it usually in Simple contexts and even at the lighter end of Complicated. Progress on the option I chose was important, but still subservient to the outcome I was looking for. If at any time it seems the option you’ve chosen won’t deliver the outcome, then you need to change tact. In this case I knew the space and value I wanted out of this would be achieved if we got the loft. But imagine if the reason I wanted the space was to take up the drums? My wife and neighbours wouldn’t put up with that upstairs. If I discovered this early on, I might be able to choose a different option. Maybe to soundproof the room, or build a cabin down the garden. The outcome is what guides the option you choose. It doesn’t matter how fast you’re driving, you’ll still be late if you’re going in the wrong direction.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;An option is a combination of actions or outputs that together contribute to the outcome.&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;In my example, the builder could estimate cost accurately, because he knew all the steps to carry out the work, how long they’d take and the materials needed. This type of project is linear and predictable. He could tell for himself, and show me how things were progressing by looking at the schedule. I could also see progress by looking at the physical space, but I trusted his plan on a page because he knew what should have been done at any point in time for the project to be on track. This won’t be adequate for most of you reading this book. If you’re working in an organisation creating new products, developing and integrating software, or in any domain where work is complex and innovation and experimentation is needed, following the linear approach of planning all the work up front and tracking the plan is a bad way to measure progress. Why? Because the plan fools you into thinking you know what’s going on and what the end result will be when in fact it’s impossible to predict.&lt;/p&gt;
+
+&lt;h3 id=&quot;measuring-progress-in-complex-domains&quot;&gt;Measuring progress in Complex domains&lt;/h3&gt;
+
+&lt;p&gt;Whatever your desired outcome. More market share. Lower customer churn. Etc. To achieve it actions will need to be taken and usually some kind of output produced. Often, in business and software development, at first it is not evident what will deliver the outcome or how technology will be used to achieve it. That’s what makes the context complex, requiring a test and learn approach.&lt;/p&gt;
+
+&lt;p&gt;Let’s take the example of a telco looking to increase market share as it’s &lt;b&gt;outcome&lt;/b&gt;. The teams have a list of ranked options that they believe will achieve this. Top of the list are several features which will bring more customers to the site. This is more than a hunch, they’ve been looking at the data they’ve got and used it to create a hypothesis for each &lt;b&gt;option&lt;/b&gt;. The work is complex, they don’t know for sure how the options will perform until they test them with real users. Expecting a fully estimated plan from them, is asking for the unknowable. Worse, held to a plan they will be pressured into delivering options (probably in the form of outputs - functionality) that don’t deliver the outcome. They’ll have done what you wanted, but it’ll have wasted everyone’s time. My builder could provide a plan, because his work involved largely things he’d done before or at worse known unknowns. The teams creating something new face &lt;i&gt;unknown unknowns&lt;/i&gt;.&lt;/p&gt;
+
+&lt;p&gt;In this example, the relationship between the options (in this case functionality) and its effect on the outcome needs to be measured often because it’s not a clear cause and effect relationship. They need test often to make sure they’re on the right path and tweak accordingly. Hypothesis may be created, but they need to be tested.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;In a complex context the only true measure of progress is the effect of the option on the outcome.&lt;/b&gt; In the software example, this would be measuring the effect of a new feature (the option) on market share. In development of a new antiviral drug, it would be the effect of the drug on the virus. This is how we can really tell we’re doing well.&lt;/p&gt;
+
+&lt;p&gt;Other measures are at best weak proxies, and at worst fool us into thinking progress has been made when in fact we’re standing still. You measure what matters, so if the outcome is what’s important then that’s what counts. If you are only measuring the implementation of your options (as many in business do), then you are merely focussed on output. This often happens from the top down; a senior manager will focus on an output (mistakingly equating this with the outcome), they hold their people accountable for the output and measure them against it,  and before you know it the only thing that matters is delivering the output. That’s perfect if there is a 1:1 relationship between the output and achieving your outcome, a predefined route; however with an untried route you’re simply looking at progress in mileage without checking that you’re closer to your destination.&lt;/p&gt;
+
+&lt;p&gt;Management should be focussed on the destination, but there is every reason to check the mileage if it allows for better support of the teams. Shortly we’ll see how that works. But first lets look at how breaking options down benefits delivery in a Complex context.&lt;/p&gt;
+
+&lt;h3 id=&quot;breaking-options-down&quot;&gt;Breaking options down&lt;/h3&gt;
+
+&lt;p&gt;Let’s say that you have a series of options that independently affect the outcome. Their independence is important. If an option only affects the outcome when combined with another then it’s possible to deliver a whole lot without having any realisable value. This creates waste and contributes to many failed programmes[1].&lt;/p&gt;
+
+&lt;p&gt;The teams break the option down in a way that suits their work. You could break an option down ad infinitum into smaller options. The constraint is that it must affect the outcome. Breaking work down into smaller batches leads to faster feedback, so smaller options can be turned around, explored, tweaked, ditched faster as teams test and learn towards their destination. These are better in Complex contexts but Complicated contexts also benefit from smaller batch sizes since an option produces benefit in the form of an affected outcome or learning. The earlier we get this, the better as we’ll start realising the benefit sooner and also reduce some of the risk.&lt;/p&gt;
+
+&lt;h3 id=&quot;checking-the-mileage---measuring-progress-on-your-options&quot;&gt;Checking the mileage - measuring progress on your options&lt;/h3&gt;
+
+&lt;p&gt;Here are some examples of completed options:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;My loft converted into a bedroom.&lt;/li&gt;
+  &lt;li&gt;A feature on a website.&lt;/li&gt;
+  &lt;li&gt;A new drug ready for trials.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;What does completed mean? The Agile manifesto articulates the value of “working software over comprehensive documentation” because clearly you are closer to delivering value with working software than a document. The best measure of milage is the completed option; working software, a drug that can be tested, the bedroom in my loft. In the Simple and Complicated contexts where the road is known, mileage is actually a pretty good measure. Not so much for the Complex, but still the next best - and many organisations would fare much better if they stuck to this as a measure of progress rather than putting confidence in the current position in relation to a plan.&lt;/p&gt;
+
+&lt;p&gt;So how do we measure when the option is “complete”? Isn’t it subjective? It’s obvious that my bedroom wouldn’t be accepted as complete if the builder hadn’t connected the wiring so that electricity was available in the room. In the same way working software isn’t complete until it integrates with other components that enable it to create value. A drug being developed isn’t complete until it can be trialed. Think of it this way, for an option to be complete it needs to be at the point where it can be used or executed. This is because anything else requires further work, possibly a lot more - in the complex domain we can’t be sure. Be conscious of what a completed option should look like - the more complex the context the more concerned you should be with anything less than an executable state.&lt;/p&gt;
+
+&lt;p&gt;In Agile, teams talk about a Definition of Done to avoid doubt. It simply makes explicit everything that we think should happen, but that may be assumed by some and missed by others. This may include automated tests being in place, and documentation being updated. Things that could be unique to a team, or ambiguous can be in a definition of done. A working, integrated solution should be view as important as connecting the bedroom up to the electricity. In the latter case, it is so obvious that I don’t need to make it explicit to the builder - in the former case, it would be an advanced organisation that recognises this as obvious - they will do well from it!&lt;/p&gt;
+
+&lt;p&gt;A completed option is executable.&lt;/p&gt;
+
+&lt;p&gt;Can you see why management shouldn’t be interested in number of story points[2], number of stories completed or hours worked? They are too far removed from delivery of verifiable value.&lt;/p&gt;
+
+&lt;p&gt;What should management be looking at?&lt;/p&gt;
+
+&lt;p&gt;Imagine the following options as measures of progress.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;a.&lt;/b&gt; Each iteration I get a car that I can drive around.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;b.&lt;/b&gt; Each iteration I get a list of completed work that’s been done to a car.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;c.&lt;/b&gt; Each iteration see how many hours or work units they have managed to do.&lt;/p&gt;
+
+&lt;p&gt;If your life depended on getting out a working product that affects the outcome, which would you use as a measure of progress?&lt;/p&gt;
+
+&lt;p&gt;In Simple and Complicated contexts (&lt;b&gt;b.&lt;/b&gt;) will suffice if the right people are working on it, whilst (&lt;b&gt;a.&lt;/b&gt;) is clearly the better option. (&lt;b&gt;c.&lt;/b&gt;) is rarely useful even in these contexts - if you focus on this you will surely have everyone busy. But producing value?Management should be leaving (&lt;b&gt;b.&lt;/b&gt;) and (&lt;b&gt;c.&lt;/b&gt;) to the teams.&lt;/p&gt;
+
+&lt;p&gt;What we should aim for is the following:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Team decides to go with X options which fit into a given time box. Could be 1, could be 10.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;At the end of the time box, a number of these options have been implemented. Some may not have been finished.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The team and relevant stakeholders, including management review the implemented options and their effect on the outcome. This is the progress. Management asks the 5 questions of themselves. If it’s too soon to measure the option’s effect on the outcome, this will need to be measured as soon as the data is available.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Feedback, learning and continue, pivot or ditch decisions are made.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;The process loops back around.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Management should be reviewing progress by objectively looking at the implemented option on a given cadence. What you see above may look somewhat like a Sprint Review used in Scrum - but we can be framework agnostic. This isn’t rocket science - everyone reviews progress - the difference is in using the right measures. That means looking at things of verifiable value (the option) rather than tenuous links to the things we care about. Management shouldn’t be looking at anything other than options and outcomes. No proxies, no tenuous links, no self deception.&lt;/p&gt;
+
+&lt;p&gt;Management tracking the work at a task level can show lack of trust. You’re better off finding great people that you don’t feel the need to task track.&lt;/p&gt;
+
+&lt;p&gt;For simple and some complicated work, with regularity appropriate to the situation, it will give a fairly accurate view of where you are in relation to the destination. You can know how much there is to do in relation to what’s been done and take action accordingly.&lt;/p&gt;
+
+&lt;p&gt;For complex work this is futile. More than any other domain, you need people who can make decisions on their own and escalate only when something is outside their sphere of influence. If they’re not on track to deliver an option in a given time period, allow them to work out what to do without breathing down their necks. Constraints and difficulties can result in creative solutions. Aside from distracting the teams, looking at the tasks required to deliver the option, as we have seen, will be misleading as in the context they may change.&lt;/p&gt;
+
+&lt;p&gt;Remember:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Most organisations are operating in Complex contexts. In this situation the effect of the option on the outcome is like your SatNav telling you how much closer you are to your destination. It is the only true measure of progress.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;If you cannot measure the outcome at a given point, a completed option indicates you are making progress - it will either affect the outcome, or you will learn something&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;i&gt;[1] As an example: &lt;a href=&quot;https://www.theguardian.com/society/2013/sep/18/nhs-records-system-10bn&quot; target=&quot;blank&quot;&gt;‘Abandoned NHS IT System Has Cost £10bn so Far’. The Guardian&lt;/a&gt;, 18 September 2013.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;[2] Story pointing is an Agile technique whereby User Stories are given a point value. This represents the amount of work, it’s complexity and any risk and uncertainty around them. The stories are pointed relative to one another. It’s a heuristic, not a science, and for a dedicated, stable team this can make the process of deciding what to work on, and how much work to pull in faster. It’s a better, more systemic representation of the work as opposed to time based estimation. The latter takes longer, is generally less accurate (as less holistic) and encourages managers to hold people to their estimates.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/&quot;&gt;next page () &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Applying approach to context in delivery.</summary></entry><entry><title type="html">CHAPTER 2 - What to measure</title><link href="https://kaufie.com/use-cases-for-metrics" rel="alternate" type="text/html" title="CHAPTER 2 - What to measure" /><published>2020-09-06T00:00:00+01:00</published><updated>2020-09-06T00:00:00+01:00</updated><id>https://kaufie.com/use-cases-for-metrics</id><content type="html" xml:base="https://kaufie.com/use-cases-for-metrics">&lt;p&gt;&lt;a href=&quot;/what-to-measure&quot;&gt;&amp;lt; previous page (What Should we Measure?)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;use-cases-for-metrics&quot;&gt;Use cases for metrics&lt;/h2&gt;
 
 &lt;p&gt;Here’s a summary of what we should measure.&lt;/p&gt;
 
-&lt;table style=&quot;width:100%&quot;&gt;
+&lt;table&gt;
   &lt;tr&gt;
     &lt;th&gt;Common needs of managers in organisations:&lt;/th&gt;
     &lt;th&gt;We will look at how to:&lt;/th&gt;
@@ -79,36 +244,7 @@
 &lt;p&gt;&lt;br /&gt;
 We’ll be exploring each of these individually in detail.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/good-bad-ugly&quot;&gt;next page (The Good, the Bad and the Ugly) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Chapter 2 looks at what to measure in your organisation.</summary></entry><entry><title type="html">CHAPTER 1 - Terms</title><link href="https://kaufie.com/options-and-outcomes" rel="alternate" type="text/html" title="CHAPTER 1 - Terms" /><published>2020-09-05T00:00:00+01:00</published><updated>2020-09-05T00:00:00+01:00</updated><id>https://kaufie.com/options-and-outcomes</id><content type="html" xml:base="https://kaufie.com/options-and-outcomes">&lt;p&gt;&lt;a href=&quot;/leading-and-lagging-indicators&quot;&gt;&amp;lt; previous page (Leading and Lagging Indicators)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;outcomes-options-and-tasks&quot;&gt;Outcomes, Options and Tasks&lt;/h2&gt;
-
-&lt;p&gt;There many frameworks, methods and practices for breaking work down. I like to keep things simple, and where possible universal.&lt;/p&gt;
-
-&lt;p&gt;An &lt;b&gt;Outcome&lt;/b&gt; is a high level business objective. Something that happens as the result of something else.&lt;/p&gt;
-
-&lt;p&gt;To get an outcome, you need &lt;b&gt;Options&lt;/b&gt;. These can be actions or outputs that once completed contribute to the outcome in a measurable way. There may be many options that would satisfy an outcome. It’s up to you to decide which is best.&lt;/p&gt;
-
-&lt;p&gt;To carry out an Option, whether it’s building something or doing something, you’ll need to carry out &lt;b&gt;Tasks&lt;/b&gt;.&lt;/p&gt;
-
-&lt;p&gt;An example:&lt;/p&gt;
-
-&lt;p&gt;Outcome: Increased market share 
-Options: New social share features on website. Advertising campaign. Takeover competitor.&lt;/p&gt;
-
-&lt;p&gt;Big Options can be broken down into small Options - we’ll get to why that’s a good idea and look at some examples in Chapter 3.&lt;/p&gt;
-
-&lt;p&gt;Some common terms and how they relate:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;User stories - called such to emphasise the value of understanding within the team, and from the perspective of who a feature is for, what it is and what the purpose of it is. A user story would be an option as would any parent big picture item, often called an “Epic”.&lt;/li&gt;
-  &lt;li&gt;Requirements - these would be a subset of an Option. Criteria to tell us what should be included. Rarely of value on their own, typically in Agile requirements manifest as acceptance criteria within user stories.
-    &lt;ul&gt;
-      &lt;li&gt;Bets - I like the implication that we don’t know if it will work. All options in the complex context are bets. When you move into the simple or complicated context and you start dealing  with sure things, the term “option” holds better and more broadly.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;/what-to-measure&quot;&gt;next page (CHAPTER 2 - What to Measure) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Options and outcomes.</summary></entry><entry><title type="html">CHAPTER 1 - Terms</title><link href="https://kaufie.com/leading-and-lagging-indicators" rel="alternate" type="text/html" title="CHAPTER 1 - Terms" /><published>2020-09-05T00:00:00+01:00</published><updated>2020-09-05T00:00:00+01:00</updated><id>https://kaufie.com/leading-and-lagging-indicators</id><content type="html" xml:base="https://kaufie.com/leading-and-lagging-indicators">&lt;p&gt;&lt;a href=&quot;/terms&quot;&gt;&amp;lt; previous page (Mearurements, Metrics and KPIs)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/good-bad-ugly&quot;&gt;next page (The Good, the Bad and the Ugly) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Chapter 2 looks at what to measure in your organisation.</summary></entry><entry><title type="html">CHAPTER 1 - Terms</title><link href="https://kaufie.com/leading-and-lagging-indicators" rel="alternate" type="text/html" title="CHAPTER 1 - Terms" /><published>2020-09-05T00:00:00+01:00</published><updated>2020-09-05T00:00:00+01:00</updated><id>https://kaufie.com/leading-and-lagging-indicators</id><content type="html" xml:base="https://kaufie.com/leading-and-lagging-indicators">&lt;p&gt;&lt;a href=&quot;/terms&quot;&gt;&amp;lt; previous page (Mearurements, Metrics and KPIs)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;leading-and-lagging-indicators&quot;&gt;Leading and lagging indicators&lt;/h2&gt;
 
@@ -162,7 +298,36 @@ Options: New social share features on website. Advertising campaign. Takeover co
 
 &lt;p&gt;&lt;i&gt;[2] Seddon, John. I Want You to Cheat!: The Unreasonable Guide to Service and Quality in Organisation. Buckingham: Vanguard Press, 2007. p83&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/options-and-outcomes&quot;&gt;next page (Options and Outcomes) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Leading and lagging indicators.</summary></entry><entry><title type="html">CHAPTER 1 - Terms</title><link href="https://kaufie.com/terms" rel="alternate" type="text/html" title="CHAPTER 1 - Terms" /><published>2020-09-04T00:00:00+01:00</published><updated>2020-09-04T00:00:00+01:00</updated><id>https://kaufie.com/terms</id><content type="html" xml:base="https://kaufie.com/terms">&lt;h2 id=&quot;measurements-metrics-and-kpis&quot;&gt;Measurements, metrics and KPIs&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;/options-and-outcomes&quot;&gt;next page (Options and Outcomes) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Leading and lagging indicators.</summary></entry><entry><title type="html">CHAPTER 1 - Terms</title><link href="https://kaufie.com/options-and-outcomes" rel="alternate" type="text/html" title="CHAPTER 1 - Terms" /><published>2020-09-05T00:00:00+01:00</published><updated>2020-09-05T00:00:00+01:00</updated><id>https://kaufie.com/options-and-outcomes</id><content type="html" xml:base="https://kaufie.com/options-and-outcomes">&lt;p&gt;&lt;a href=&quot;/leading-and-lagging-indicators&quot;&gt;&amp;lt; previous page (Leading and Lagging Indicators)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;outcomes-options-and-tasks&quot;&gt;Outcomes, Options and Tasks&lt;/h2&gt;
+
+&lt;p&gt;There many frameworks, methods and practices for breaking work down. I like to keep things simple, and where possible universal.&lt;/p&gt;
+
+&lt;p&gt;An &lt;b&gt;Outcome&lt;/b&gt; is a high level business objective. Something that happens as the result of something else.&lt;/p&gt;
+
+&lt;p&gt;To get an outcome, you need &lt;b&gt;Options&lt;/b&gt;. These can be actions or outputs that once completed contribute to the outcome in a measurable way. There may be many options that would satisfy an outcome. It’s up to you to decide which is best.&lt;/p&gt;
+
+&lt;p&gt;To carry out an Option, whether it’s building something or doing something, you’ll need to carry out &lt;b&gt;Tasks&lt;/b&gt;.&lt;/p&gt;
+
+&lt;p&gt;An example:&lt;/p&gt;
+
+&lt;p&gt;Outcome: Increased market share 
+Options: New social share features on website. Advertising campaign. Takeover competitor.&lt;/p&gt;
+
+&lt;p&gt;Big Options can be broken down into small Options - we’ll get to why that’s a good idea and look at some examples in Chapter 3.&lt;/p&gt;
+
+&lt;p&gt;Some common terms and how they relate:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;User stories - called such to emphasise the value of understanding within the team, and from the perspective of who a feature is for, what it is and what the purpose of it is. A user story would be an option as would any parent big picture item, often called an “Epic”.&lt;/li&gt;
+  &lt;li&gt;Requirements - these would be a subset of an Option. Criteria to tell us what should be included. Rarely of value on their own, typically in Agile requirements manifest as acceptance criteria within user stories.
+    &lt;ul&gt;
+      &lt;li&gt;Bets - I like the implication that we don’t know if it will work. All options in the complex context are bets. When you move into the simple or complicated context and you start dealing  with sure things, the term “option” holds better and more broadly.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;/what-to-measure&quot;&gt;next page (CHAPTER 2 - What to Measure) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Options and outcomes.</summary></entry><entry><title type="html">CHAPTER 1 - Terms</title><link href="https://kaufie.com/terms" rel="alternate" type="text/html" title="CHAPTER 1 - Terms" /><published>2020-09-04T00:00:00+01:00</published><updated>2020-09-04T00:00:00+01:00</updated><id>https://kaufie.com/terms</id><content type="html" xml:base="https://kaufie.com/terms">&lt;h2 id=&quot;measurements-metrics-and-kpis&quot;&gt;Measurements, metrics and KPIs&lt;/h2&gt;
 
 &lt;p&gt;Often the terms measurements, metrics and KPIs are used interchangeably, however there are some differences. Measurement is defined by Douglas W. Hubbard in his excellent book “How to Measure Anything”:&lt;/p&gt;
 
@@ -281,404 +446,4 @@ Options: New social share features on website. Advertising campaign. Takeover co
       &lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="notes" /><category term="self-development" /><category term="memory" /><summary type="html">Some powerful strategies for memorisation and recall. Quite a bit is overly explained; the techniques are simple (a good thing). I skimmed over fluff and pulled out what I thought could be useful. I have no need to remember long strings of numbers, but linking names and information to images and other associations is something I’ll use.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/memory.jpg" /><media:content medium="image" url="https://kaufie.com/memory.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">A guide to happiness - teachings of Epicurus</title><link href="https://kaufie.com/guide-to-happiness-teachings-epicurus" rel="alternate" type="text/html" title="A guide to happiness - teachings of Epicurus" /><published>2020-08-17T00:00:00+01:00</published><updated>2020-08-17T00:00:00+01:00</updated><id>https://kaufie.com/guide-to-happiness-teachings-epicurus</id><content type="html" xml:base="https://kaufie.com/guide-to-happiness-teachings-epicurus">&lt;p&gt;Over 2000 years have passed since Epicurus wrote these teachings, yet they still provide great insight into how to live happily. The best are: “Nothing satisfies him for whom enough is too little”; “if you wish to make Pythocles rich, be not adding to do his money but subtracting from his desires” and “the greatest fruit of self-sufficiency is freedom”.&lt;/p&gt;
-
-&lt;!--more--&gt;
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;the-big-ideas&quot;&gt;The big ideas&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Happiness in this life can be achieved by focusing on the natural and essential (which everything we truly need in life is - eg. food, water); and meaningful friendships.&lt;/li&gt;
-  &lt;li&gt;To avoid extravagance and reduce desire is to pursue simplicity and what is natural. Just as the subtraction of evil leaves only the good. Pursuit of wealth and doing wrong lead only to fear and suffering.&lt;/li&gt;
-  &lt;li&gt;Live simply. Seek and provide friendship. Enjoy the present. Welcome tomorrow but do not seek it.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;my-notes&quot;&gt;My notes&lt;/h2&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;the-happy-life-letter-to-menoeceus&quot;&gt;The Happy Life (letter to Menoeceus)&lt;/h3&gt;
-    &lt;ul&gt;
-      &lt;li&gt;The major elements of the letter are:
-        &lt;ul&gt;
-          &lt;li&gt;The Gods are blessed but are of no concern to us&lt;/li&gt;
-          &lt;li&gt;There is nothing to fear in death
-            &lt;ul&gt;
-              &lt;li&gt;“all good an evil lies in sensation, and death ends all sensation”&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Blessed is a pain free body and a tranquil mind&lt;/li&gt;
-          &lt;li&gt;Pleasure is the guide in all we choose
-            &lt;ul&gt;
-              &lt;li&gt;“given that pleasure is the primary and natural good, we do not choose every and any pleasure, but often pass by many if they are outweighed by the discomforts they bring”&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Live Simply
-            &lt;ul&gt;
-              &lt;li&gt;“all that is natural is easy to get, while that which is superfluous is hard.”&lt;/li&gt;
-              &lt;li&gt;“Moreover [simple things] fit us to be unafraid of fortune.”&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Live with an eye to the consequences
-            &lt;ul&gt;
-              &lt;li&gt;“it is impossible to live pleasurably without living prudently”.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;The happy mortal
-            &lt;ul&gt;
-              &lt;li&gt;..follows the above advice&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;quotes&quot;&gt;Quotes&lt;/h3&gt;
-    &lt;p&gt;Below are the quotes that stood out.&lt;/p&gt;
-
-    &lt;ul&gt;
-      &lt;li&gt;
-        &lt;p&gt;“Of all the means which are procured by wisdom to ensure happiness throughout the whole of life, by far the most important is the acquisition of friends”.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“For most men rest is stagnation and activity madness.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“No one when he sees evil deliberately chooses it, but is enticed by it as being good in comparison with a greater evil and so pursues it.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“It is not the young man who should be thought happy, but an old man who has lived a good life. For the young man at the height of his powers is unstable and is carried this way and that by fortune, like a headlong stream. But the old man has come to anchor in old-age as though in port, and the good things for which before he hardly hoped he has brought into safe harbourage in his grateful recollections.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“The veneration of the wise man is a great blessing to those who venerate him”.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“It is not so much our friend’s help that helps us as the confidence of their help.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“We should not spoil what we have by desiring what we have not, but remember that what we do have is the gift of fortune.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“The greatest blessing is created and enjoyed at the same moment”.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“We must release ourselves from the prison of affairs and politics.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“Frugality too has a limit, and the man who disregards it is in like case with him who errs through excess.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“Praise from others must come unasked: we must concern ourselves with the healing of our own lives.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“A free life cannot acquire many possessions, because this is not easy to do without servility to mobs or monarchs, yet it possesses all things in unfailing abundance; and if by chance it obtains many possessions, it is easy to distribute them so as to win the gratitude of neighbours.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“Nothing is sufficient for him to whom what is sufficient seems little”.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“Let nothing be done in your life, which will cause you fear if it becomes known to your neighbour.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“Every desire must be confronted with this question; what will happen to me, if the object of my desire is accomplished and what if it is not?”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“The greatest fruit of self-sufficiency is freedom”.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“Sexual intercourse has never done a man good, and he is lucky if it has not harmed him.”  - can’t say that I agree with this (!) such a strange saying that it’s worth noting.&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“Vain is the word of a philosopher which does not heal any suffering of man. For just as there is no profit in medicine if it does not expel the diseases of the body, so there is no profit in philosophy either, if it does not expel the suffering of the mind.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“He who least needs to-morrow, will most gladly go to meet to-morrow.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“The laws exist for the sake of the wise, not that they may not do wrong, but that they may not suffer it.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“A man who causes fear cannot be free from fear.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“The wise man is little inconvenienced by fortune: things that matter are under the control of his own judgement and reason. No greater pleasure could be derived from an eternal life than is actually derived from the existence we can see to be infinite.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“The fool’s life is ungracious and fearful: it is directed totally at the future.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“If you live according to nature, you will never be poor; if you live according to opinions, you will never be rich.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“For many, the acquisition of riches has not made an end of troubles, but an alteration.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“Ungoverned anger begets madness.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“Before you eat and drink anything, consider carefully who you eat and drink it with: feeding without a friend is the life of a lion or a wolf.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“If you wish to make Pythocles rich, be not adding to do his money but subtracting from his desires.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“No one parts from life in a state any different from that in which he entered it…No one parts from life any different from how he was born.”&lt;/p&gt;
-      &lt;/li&gt;
-      &lt;li&gt;
-        &lt;p&gt;“For the guilty to remain hidden is possible; to be confident in such concealment is impossible.” [Seneca’s gloss is “Good fortune frees many men from punishment, but none from the fear of it.”]&lt;/p&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="notes" /><category term="self-development" /><category term="happiness" /><category term="greek" /><category term="philosophy" /><category term="quotes" /><summary type="html">Over 2000 years have passed since Epicurus wrote these teachings, yet they still provide great insight into how to live happily. The best are: “Nothing satisfies him for whom enough is too little”; “if you wish to make Pythocles rich, be not adding to do his money but subtracting from his desires” and “the greatest fruit of self-sufficiency is freedom”.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/guidetohappiness.jpg" /><media:content medium="image" url="https://kaufie.com/guidetohappiness.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">What makes a great Agile Coach?</title><link href="https://kaufie.com/what-makes-a-great-agile-coach" rel="alternate" type="text/html" title="What makes a great Agile Coach?" /><published>2020-08-10T00:00:00+01:00</published><updated>2020-08-10T00:00:00+01:00</updated><id>https://kaufie.com/what%20makes%20a%20great%20agile%20coach</id><content type="html" xml:base="https://kaufie.com/what-makes-a-great-agile-coach">&lt;p&gt;Agile Coach is a term widely used. It’s been defined by the Agile Coaching Institute, but also frequently interpreted and modified by organisations and practitioners.&lt;/p&gt;
-
-&lt;p&gt;Whether you call any difference a “context specific improvement” or “corruption” depends on whether it fits or contradicts Agile, progressive principles. Certainly some Agile Coach interpretations do, but otherwise looking at the context and not sticking with a rigid dictate of what something is and how it should be done is the very essence of agility.&lt;/p&gt;
-
-&lt;p&gt;In this article, I present my view on what the role is and what great looks like. It’s shaped by my experience and what I’ve learned over the years; I’ve seen what works and what doesn’t work. I’ve been a Scrum Master 5 years, interviewed, hired and managed a team of Scrum Masters, hired and led a team of Agile Coaches in a transformation; working as an Agile Coach at team and leadership levels in a major telco.&lt;/p&gt;
-
-&lt;p&gt;Done right the role is a powerful catalyst for change and improvement. Done badly it can be ineffective and even detrimental - like a doctor prescribing the wrong medicine to a patient.&lt;/p&gt;
-
-&lt;h3 id=&quot;what-does-an-agile-coach-do&quot;&gt;What does an Agile Coach do?&lt;/h3&gt;
-&lt;p&gt;Here’s a high level description of the role; it supports an organisation, its teams and people in their adoption of Agile values (or similar modern values related to people, flow, improvement and customer focus). It encourages experimentation with new ways of working, empiricism and adoption of new behaviours promoting flow, continuous improvement, quality communication and improved customer outcomes.&lt;/p&gt;
-
-&lt;p&gt;The word “Coach” is misleading, since it’s only a facet of the role. The Agile Coaching Institute uses “Practitioner”, but it seems that “Coach” has stuck. As the below image shows, taken from their website, other expected skills are teaching, mentoring, technical mastery, business mastery, transformation mastery and facilitation. Individuals will bring their own skills and be stronger in some areas than others. That’s what makes diversity great.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/Agile-Coach-Competency-Framework-for-website.jpg&quot; alt=&quot;Agile Coach competency framework&quot; style=&quot;max-width:100%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Even the word “Agile” is limiting. The ACI has included “Lean”, however personally I’ve sought individuals with a wider skillset, which I also strive to develop myself. Communication skills expertise, Liberating Structures, Systems thinking and a number of other tools and techniques can be useful. Look at what the organisation wants to achieve, then establish the skills you need. Like the old adage; if you only bring a hammer, every problem looks like a nail.&lt;/p&gt;
-
-&lt;p&gt;Another diagram that’s useful is the one below. It’s a modification of a much older diagram on “the consulting role”. This modification works for our case (credit to Dandy People who created it).&lt;/p&gt;
-
-&lt;p&gt;Every business and context is different, every team is at a different stage in their journey. A great Agile Coach selects the appropriate stance for the context and will modify this over time. Usually in a way that gives individuals the capability and confidence to no longer need the support.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;/assets/images/choosing-coaching-stance-graph.png&quot; alt=&quot;choosing a coaching stance&quot; style=&quot;max-width:100%;&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;An Agile Coach works at one, or all of three levels.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Team level:&lt;/strong&gt; supporting a number of teams of “doers” carrying out work on a product. This would involve observation and coaching of the team or individuals. The “why” behind suggestions and techniques to try to solve a particular problem. Training of the team in roles, techniques and events. “Showing by example” - hands on mentoring or training of individuals by facilitating events or working through activities (eg helping a new Product Owner on managing a backlog). If a team isn’t doing Scrum but has a dedicated individual to support them with ways of working expertise and Agile, then they’re generally called an Agile Coach to be non Scrum specific.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Team of teams level:&lt;/strong&gt; supporting a team of teams of a particular value stream, product or programme. The principle difference between this and team level is a focus on handoff points and dependencies between teams. Using Agile approaches to minimise or improve these.&lt;/p&gt;
-
-&lt;p&gt;&lt;strong&gt;Enterprise level:&lt;/strong&gt; sometimes called “Enterprise Coaches”. These individuals will work with senior managers and business leaders. Helping them understand the “why” behind certain Agile concepts, and how they can be implemented. Think organisational design, creating an environment supportive of the Agile principles, policies etc. I should add that I find creating a hierarchy of Agile Coaches unhelpful. A great Agile Coach should work at all levels from time to time in order to keep their skills sharp.&lt;/p&gt;
-
-&lt;h3 id=&quot;the-difference-between-an-agile-coach-and-a-scrum-master&quot;&gt;The difference between an Agile Coach and a Scrum Master&lt;/h3&gt;
-&lt;p&gt;Let’s be clear. An Agile Coach is not necessarily more advanced or a step up from a Scrum Master. Many assume it is because they generally work at a higher level and earn more. I’ve known Scrum Masters that are more knowledgeable and capable than someone calling themself an Agile Coach, and vice versa.&lt;/p&gt;
-
-&lt;p&gt;If you’re hiring an Agile Coach, you should expect a broader experience with various ways of working techniques. One may be Scrum but they should be framework agnostic. That’s not to say there aren’t a lot of great Scrum Masters out there that apply much more than Scrum and XP.&lt;/p&gt;
-
-&lt;h3 id=&quot;why-is-the-agile-coach-role-important&quot;&gt;Why is the Agile Coach role important?&lt;/h3&gt;
-&lt;p&gt;You’ve got a problem to solve. The old ways of doing things aren’t working, or are leaving you behind the competition. You’re bringing on Agile Coaches to help the organisation towards Agile values and ways of working. If this is successful you will see happier people, working in an environment where they can raise issues and see the value they’re producing; improved business outcomes, from increased customer focus and connection; a more effective organisation through improved feedback, shorter lead times (a true measure of agility) and accelerated innovation with a culture of continuous improvement. That’s why the role is important - but only if it can fix your problem.&lt;/p&gt;
-
-&lt;h3 id=&quot;so-whats-the-future-of-the-role&quot;&gt;So what’s the future of the role?&lt;/h3&gt;
-&lt;p&gt;My prediction:&lt;/p&gt;
-
-&lt;p&gt;Agile Coaches will still be called such when helping businesses to roll out specific Agile frameworks, or working with teams using Agile, eg XP and Scrum.&lt;/p&gt;
-
-&lt;p&gt;Increasingly we’ll see a role that isn’t specifically related to Agile, or confused by the word “coach”. Something along the lines of “Ways of working specialist” or “agility practitioner: (as mentioned the ACI already uses Agile Practitioner). This is probably closer to what I’ve intended for the role when I’ve hired Agile Coaches, something broader. Once new terms are familiar, they’ll be easier to hire for.&lt;/p&gt;</content><author><name>sash</name></author><category term="agile" /><category term="effectiveness" /><category term="agility" /><category term="agile" /><summary type="html">and what the hell do they do anyway?</summary></entry><entry><title type="html">So Good They Can’t Ignore You - by Cal Newport</title><link href="https://kaufie.com/so-good-they-cant-ignore-you-by-Cal-Newport" rel="alternate" type="text/html" title="So Good They Can’t Ignore You - by Cal Newport" /><published>2020-08-07T00:00:00+01:00</published><updated>2020-08-07T00:00:00+01:00</updated><id>https://kaufie.com/so%20good%20they%20cant%20ignore%20you%20by%20Cal%20Newport</id><content type="html" xml:base="https://kaufie.com/so-good-they-cant-ignore-you-by-Cal-Newport">&lt;p&gt;An alternative to the famous “follow your passion” advice. It’s well argued and I can relate personally. I’ve found work I’m passionate about, but as a student I’d not even heard of my industry. Following your passion sounds great, but that assumes you know your passion, and that following it will provide you with a successful and meaningful career (there are examples in the book to illustrate how it can lead you astray). For me the work, skills and purpose came over time. There are definitely exceptions (sports being one), but for many it’s great advice; get out there and start working to discover your passion and earn options to pursue it. One of the best career advice books I’ve read.&lt;/p&gt;
-
-&lt;!--more--&gt;
-&lt;hr /&gt;
-
-&lt;h3 id=&quot;the-big-idea-what-so-what-now-what&quot;&gt;The big idea. What, so what, now what?&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;To get work you love, following your passion is bad advice. First, you need to &lt;strong&gt;develop rare skills and experience&lt;/strong&gt;. This gives you &lt;strong&gt;control&lt;/strong&gt;. It makes you valuable. With control you can get more &lt;strong&gt;autonomy&lt;/strong&gt;. You can negotiate. You have options. This allows you to pursue a mission. Providing you with &lt;strong&gt;purpose&lt;/strong&gt;. Working at the cutting edge of a field is where you usually find it - to get there you must build skills, experience and value. A compelling mission should be &lt;strong&gt;remarkable&lt;/strong&gt;.&lt;/li&gt;
-  &lt;li&gt;This means rather than dreaming up a passion and pursuing it (except in some situations, like sports), you should focus on developing valuable skills and following the route I’ve described. These can be in an areas you’re interested in. But as the examples show, you may be surprised and find out it’s not so great. Developing skills and experience will take you on a journey that will lead you to your passion.&lt;/li&gt;
-  &lt;li&gt;Pick a field that appeals. Work hard, develop rare skills. Pursue the options that interest you as they begin to emerge. You’ll start to arrive at the cutting edge, where the interesting work is. This will take you to your purpose and true fulfilment.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;my-notes&quot;&gt;My notes&lt;/h2&gt;
-
-&lt;h3 id=&quot;dont-follow-your-passion&quot;&gt;Don’t follow your passion&lt;/h3&gt;
-&lt;ul&gt;
-  &lt;li&gt;Steve jobs didn’t follow his passion. He got a lucky break from a small time scheme that eventually paid off. His passion was Buddhism, natural retreats and spiritualism. Electronics was a way to make money.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Career passions are rare&lt;/strong&gt;
-      - top 5 identified passions for students were dance, hockey, skiing, reading and swimming. These don’t have much to offer when it comes to choosing a job.
-    &lt;ul&gt;
-      &lt;li&gt;&lt;strong&gt;Passion takes time&lt;/strong&gt;
-        &lt;ul&gt;
-          &lt;li&gt;in studies of collage administrative assistants, the more experience an assistant had, the more likely she was to love her work.&lt;/li&gt;
-          &lt;li&gt;if you’ve had many year’s experience then you’ve had time to get better at what you do and develop a feeling of efficacy. It gives you more time to build relationships and see your work benefit others.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Passion is a side effect of mastery&lt;/strong&gt;
-        &lt;ul&gt;
-          &lt;li&gt;Self determination theory (SDT). Three basic needs to feel intrinsically motivated at work.
-            &lt;ul&gt;
-              &lt;li&gt;Autonomy; the feeling that you have control over your day, and that your actions are important&lt;/li&gt;
-              &lt;li&gt;Competence; the feeling that you are good at what you do. (mastery in Daniel Pink’s book Drive)&lt;/li&gt;
-              &lt;li&gt;Relatedness; the feeling of connection to other people.&lt;/li&gt;
-              &lt;li&gt;&lt;strong&gt;The assistants build the three of these areas over time&lt;/strong&gt;&lt;/li&gt;
-              &lt;li&gt;&lt;strong&gt;Working right trumps finding the right work.&lt;/strong&gt;&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Following your passion is chasing an elusive dream.&lt;/strong&gt;
-        &lt;ul&gt;
-          &lt;li&gt;Following your passion doesn’t make you happy. Keeping options open, taking opportunities, doing great work - you build passion in what you do.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Replace the passion mindset (what value your jobs gives you) with &lt;strong&gt;the craftsman mindset&lt;/strong&gt; (what value you’re producing in your job)
-        &lt;ul&gt;
-          &lt;li&gt;“Be so good they can’t ignore you” - Steve Martin’s philosophy for success. Develop so much experience that you can’t help but succeed. You get confidence in pushing the envelope.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;the-importance-of-skill&quot;&gt;The importance of &lt;strong&gt;skill&lt;/strong&gt;&lt;/h3&gt;
-    &lt;ul&gt;
-      &lt;li&gt;The traits that make a great job are rare and valuable. Therefore, if you want a great job you have to build up rare and valuable skills.
-        &lt;ul&gt;
-          &lt;li&gt;Cal calls these skills your “career capital”.&lt;/li&gt;
-          &lt;li&gt;Examples include Steve Martin, Steve Jobs, Ira Glass (radio), Merrick (surfboard). All worked hard building skills and ended up in dream jobs because of that.&lt;/li&gt;
-          &lt;li&gt;This means a craftsman’s mindset. But there are 3 disqualifiers:
-            &lt;ul&gt;
-              &lt;li&gt;The job presents few opportunities to distinguish yourself by developing relevant skills that are rare and valuable.&lt;/li&gt;
-              &lt;li&gt;The job focuses on something you think is useless or bad for the work (ie tax consultant).&lt;/li&gt;
-              &lt;li&gt;The job forces you to work with people you really dislike.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;Examples of people building career capital;
-            &lt;ul&gt;
-              &lt;li&gt;a debater becomes assistant, becomes staff writer, becomes producer. Honing craft, writing in the evening, seeking frequent feedback.&lt;/li&gt;
-              &lt;li&gt;a biologist works on an energy project for his professor, becomes energy entrepreneur, meets vc and gets clean energy role from introduction, ending up as the clean energy vc.&lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;Deliberate practice is needed&lt;/strong&gt;
-            &lt;ul&gt;
-              &lt;li&gt;10,000 hour rule. If you just show up and work hard, you’ll plateu.
-                &lt;ul&gt;
-                  &lt;li&gt;Deliberate practice is “activity designed, typically by a teacher, for the sole purpose of effectively improving specific aspects of an individual’s performance”.&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-          &lt;li&gt;&lt;strong&gt;5 habits to a craftsman&lt;/strong&gt;
-            &lt;ul&gt;
-              &lt;li&gt;Identify the market you’re in (2 types)
-                &lt;ul&gt;
-                  &lt;li&gt;Winner takes all markets (blogging, script writing) are all about one specific skill you have to optimise relentlessly.&lt;/li&gt;
-                  &lt;li&gt;Auction markets are less structured. A collection of various skills can help you succeed. (venture capitalist). There is more flexibility. If doors open, you can take the opportunity and build capital.&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-              &lt;li&gt;Identify your capital type
-                &lt;ul&gt;
-                  &lt;li&gt;As above. For auction you can go for open doors. For Winner, you know what it must be.&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-              &lt;li&gt;Define good
-                &lt;ul&gt;
-                  &lt;li&gt;You need clear goals&lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-              &lt;li&gt;Stretch and destroy
-                &lt;ul&gt;
-                  &lt;li&gt;Get uncomfortable.
-                    &lt;ul&gt;
-                      &lt;li&gt;“Deliberate practice is often the opposite of enjoyable.” It takes focus and concentration. If you’re not uncomfortable then you’re probably stuck at an acceptable level.&lt;/li&gt;
-                    &lt;/ul&gt;
-                  &lt;/li&gt;
-                  &lt;li&gt;Embrace honest feedback.
-                    &lt;ul&gt;
-                      &lt;li&gt;Even if it destroys what you thought was good.&lt;/li&gt;
-                    &lt;/ul&gt;
-                  &lt;/li&gt;
-                  &lt;li&gt;Be patient.
-                    &lt;ul&gt;
-                      &lt;li&gt;Steve Martin thought, when taking up the banjo, that if he stuck to it then one day he’ll have been playing for 40 years. And someone whose been playing for 40 years will be pretty good at it.&lt;/li&gt;
-                    &lt;/ul&gt;
-                  &lt;/li&gt;
-                &lt;/ul&gt;
-              &lt;/li&gt;
-            &lt;/ul&gt;
-          &lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;control-is-important-or-turn-down-the-promotion&quot;&gt;Control is important (or turn down the promotion)&lt;/h3&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Control over what you do and how you do it is one of the most powerful traits you can acquire when creating the work you love.&lt;/li&gt;
-      &lt;li&gt;You gain control by investing your career capital. It’s a great investment.
-        &lt;ul&gt;
-          &lt;li&gt;Example of a guy that built a lot of capital in farming. He invested it in setting up a farm.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;ROWE (results only work environment) - reportedly highly rewarding.&lt;/li&gt;
-      &lt;li&gt;Giving people more control over what they do and how they do it increases their happiness, engagement and sense of fulfilment.&lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Control that’s acquired without career capital isn’t sustainable.&lt;/strong&gt;
-        &lt;ul&gt;
-          &lt;li&gt;In other words, if you don’t have the skills and experience that makes you valuable, and can be exchanged for control, you don’t have any real leverage for the control.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;When you have the career capital to get control over your working life, you’ll be so valuable that your current employer will seek to prevent you making the change.&lt;/strong&gt;
-        &lt;ul&gt;
-          &lt;li&gt;Example of a software developer, Lulu. She build strong skills, used it to take time off etc. Had to deal with aggressive counter offers and show courage choosing other options (eg freelance.)&lt;/li&gt;
-          &lt;li&gt;The key is knowing when it’s right to be courageous in your career decisions. Calculated, rather than the “follow your passion” kind.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Avoid the traps with the law of financial viability&lt;/strong&gt;
-        &lt;ul&gt;
-          &lt;li&gt;&lt;strong&gt;Do what people are willing to pay for&lt;/strong&gt; - Derek Sivers&lt;/li&gt;
-          &lt;li&gt;When deciding to pursue something that will give more control over your work life, seek evidence that people are willing to pay for it. If you find this evidence, continue. If not, move on.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;the-importance-of-mission&quot;&gt;The importance of mission&lt;/h3&gt;
-    &lt;ul&gt;
-      &lt;li&gt;To have a mission is to have a unifying focus for your career.&lt;/li&gt;
-      &lt;li&gt;A mission chosen before you have relevant career capital is not likely to be sustainable. Missions emerge.&lt;/li&gt;
-      &lt;li&gt;Good career missions are found in the Adjacent possible - you have to get to the cutting edge in order to find your mission, this take time and requires you to develop skill first.
-        &lt;ul&gt;
-          &lt;li&gt;&quot;”Term from science writer Steven Johnson, who took it from Stuart Kauffman, that helps explain the origin of innovation. Johnson notes that the next big ideas in any field are typically found right beyond the cutting edge, in the adjacent space that contains the possible new combinations of existing ideas. The key observation is that you have to get to the cutting edge of a field before it’s adjacent possible - and the innovations it contains -becomes visible.” -from So good they can’t ignore you p236 #innovation #creativity”&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Advancing to the cutting edge in a field means you have to focus on a narrow collection of subjects for a potentially long time.
-        &lt;ul&gt;
-          &lt;li&gt;Example of a biologist with a great mission, using computational genetics to understand and fight ancient diseases. First focussed for years on a narrow niche - the genetics of diseases in Africa.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Great missions are transformed into great successes through small, achievable projects - little bets - to explore the concrete possibilities surrounding an idea.
-        &lt;ul&gt;
-          &lt;li&gt;References a book - &lt;strong&gt;Little Bets&lt;/strong&gt; by Peter Sims&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;strong&gt;Missions require marketing&lt;/strong&gt;; they must be remarkable
-        &lt;ul&gt;
-          &lt;li&gt;Law of remarkability: A mission driven project should compel people who encounter it to remark about it to others. Second, it must be launched in a venue that supports such remarking.&lt;/li&gt;
-          &lt;li&gt;References Seth Godin’s book Purple Cow. “The world is full of boring stuff - brown cows - which is why so few people pay attention…A purple cow… now that would stand out. Remarkable marketing is the art of building things worth noticing.”&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;h3 id=&quot;cals-routines&quot;&gt;Cal’s routines&lt;/h3&gt;
-    &lt;ul&gt;
-      &lt;li&gt;Research bible
-        &lt;ul&gt;
-          &lt;li&gt;Once a week he summarises in his “bible” a paper he thinks might be relevant to his research. Description of the result, how it compares to previous work, main strategies to obtain it.&lt;/li&gt;
-          &lt;li&gt;Introduces the strain of deliberate practice.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Hour tally routine
-        &lt;ul&gt;
-          &lt;li&gt;Tallies the total number of hours he’s spent each month in deliberate practice.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;Theory notebook routine
-        &lt;ul&gt;
-          &lt;li&gt;Fancy notebook, to remind him it’s important. Brainstorming of new theory results. Formally recorded on a dated page. More deliberate practice.&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Working right trumps finding the right work.&lt;/strong&gt;&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="notes" /><category term="careers" /><category term="work" /><category term="self-help" /><summary type="html">An alternative to the famous “follow your passion” advice. It’s well argued and I can relate personally. I’ve found work I’m passionate about, but as a student I’d not even heard of my industry. Following your passion sounds great, but that assumes you know your passion, and that following it will provide you with a successful and meaningful career (there are examples in the book to illustrate how it can lead you astray). For me the work, skills and purpose came over time. There are definitely exceptions (sports being one), but for many it’s great advice; get out there and start working to discover your passion and earn options to pursue it. One of the best career advice books I’ve read.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/so-good-they-cant-ignore-you.jpg" /><media:content medium="image" url="https://kaufie.com/so-good-they-cant-ignore-you.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="notes" /><category term="self-development" /><category term="memory" /><summary type="html">Some powerful strategies for memorisation and recall. Quite a bit is overly explained; the techniques are simple (a good thing). I skimmed over fluff and pulled out what I thought could be useful. I have no need to remember long strings of numbers, but linking names and information to images and other associations is something I’ll use.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/memory.jpg" /><media:content medium="image" url="https://kaufie.com/memory.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
