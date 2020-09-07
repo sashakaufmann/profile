@@ -71,6 +71,8 @@ blockquote p { display: inline; }
 
 .tweet-me { font-size: smaller; font-style: italic; }
 
+table, th, td { border: 2px solid black; border-collapse: collapse; padding: 10px; text-align: left; }
+
 /*@import "bootstrap-grid";
 @import "bootstrap-reboot"; */
 
