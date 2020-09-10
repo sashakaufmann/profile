@@ -1,54 +1,124 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://kaufie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kaufie.com/" rel="alternate" type="text/html" /><updated>2020-09-07T17:59:44+01:00</updated><id>https://kaufie.com/feed.xml</id><subtitle>Sasha Kaufmann's profile website and article archive.</subtitle><entry><title type="html">CHAPTER 2 - What to measure</title><link href="https://kaufie.com/what-to-measure" rel="alternate" type="text/html" title="CHAPTER 2 - What to measure" /><published>2020-09-06T00:00:00+01:00</published><updated>2020-09-06T00:00:00+01:00</updated><id>https://kaufie.com/what-to-measure</id><content type="html" xml:base="https://kaufie.com/what-to-measure">&lt;p&gt;&lt;a href=&quot;/options-and-outcomes&quot;&gt;&amp;lt; previous page (CHAPTER 1 - Options and Outcomes)&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://kaufie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kaufie.com/" rel="alternate" type="text/html" /><updated>2020-09-10T14:08:37+01:00</updated><id>https://kaufie.com/feed.xml</id><subtitle>Sasha Kaufmann's profile website and article archive.</subtitle><entry><title type="html">CHAPTER 4 - Respond</title><link href="https://kaufie.com/respond" rel="alternate" type="text/html" title="CHAPTER 4 - Respond" /><published>2020-09-10T00:00:00+01:00</published><updated>2020-09-10T00:00:00+01:00</updated><id>https://kaufie.com/respond</id><content type="html" xml:base="https://kaufie.com/respond">&lt;p&gt;&lt;a href=&quot;/forecasting&quot;&gt;&amp;lt; previous page (forecasting)&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;what-should-we-measure&quot;&gt;What should we measure?&lt;/h2&gt;
+&lt;h2 id=&quot;respond&quot;&gt;Respond&lt;/h2&gt;
 
+&lt;p&gt;Coming in October 2020.&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Respond.</summary></entry><entry><title type="html">CHAPTER 3 - Orient</title><link href="https://kaufie.com/forecasting" rel="alternate" type="text/html" title="CHAPTER 3 - Orient" /><published>2020-09-10T00:00:00+01:00</published><updated>2020-09-10T00:00:00+01:00</updated><id>https://kaufie.com/forecasting</id><content type="html" xml:base="https://kaufie.com/forecasting">&lt;p&gt;&lt;a href=&quot;/applying-approach-to-context&quot;&gt;&amp;lt; previous page (Applying Approach to Context)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;forecasting&quot;&gt;Forecasting&lt;/h2&gt;
+
+&lt;p&gt;In business, we can’t predict the future - but that doesn’t stop everyone trying.&lt;/p&gt;
+
+&lt;h3 id=&quot;management-need-forecasts&quot;&gt;Management need forecasts&lt;/h3&gt;
+
+&lt;p&gt;There are several important reasons why management need to forecast when options will be carried out and outcomes achieved.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Shareholders want to know when they can expect a return on investment. The business will need to show an investor that the investment is worth pursuing over other opportunities.&lt;/li&gt;
+  &lt;li&gt;Businesses need to know when money will start coming in:
+    &lt;ul&gt;
+      &lt;li&gt;To establish how long staff can be paid, among other fixed costs. Flows must be managed to avoid falling into financial trouble.&lt;/li&gt;
+      &lt;li&gt;To know when funds will be available for other work, initiatives, products etc.&lt;/li&gt;
+      &lt;li&gt;To make decisions on whether to ‘stick, twist, or fold’ on certain initiatives. If it becomes clear that the outcome isn’t worth the outlay, and the investment is better elsewhere then the sooner that decision is made the better.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Whilst there is no getting away from the need, it’s critical to maintain an understanding that a forecast is a snapshot in time. What we’re working on may become irrelevant. It may need to change. Forecasting should be completely separate from target setting. It should be the act of providing information and probabilities to support decisions. If a forecast becomes a commitment it means that management have misunderstood the term, have integrated it with target setting, and have lost focus on the outcome in favour of the option being worked on. Use a forecast to decide, not to chastise.&lt;/p&gt;
+
+&lt;h3 id=&quot;how-do-we-forecast&quot;&gt;How do we forecast?&lt;/h3&gt;
+
+&lt;p&gt;A forecast is what we expect to happen given what we know right now. Its most useful when it’s provided as a range and with a probability. A probabilistic forecast. Think of a weather forecast - knowing the probability of rain helps you prepare. This is as opposed to a deterministic forecast which simply points to an exact number. The more ‘known unknowns’ and ‘unknown unknowns’, the less accurate a forecast will be by definition - there’s too much left out of it. If you’re working in a Simple context, then clearly you can follow a plan, along a timeline, and have a good idea of when something will be delivered - and even the likely result - a deterministic forecast would be OK. Even this, though, could be scuppered if say, a global pandemic breaks out during the delivery. When the context becomes more Complicated, it can still follow a plan, however there will be more moving parts and therefore a greater chance of unexpected problems. In Complex contexts the future is highly uncertain and we’re being a lot more honest with ourselves if we start using ranges and probabilities.&lt;/p&gt;
+
+&lt;p&gt;If you’re working off a plan to deliver something you’ve delivered many times over, then you can provide an estimate of how long it will take based on the past experience. It took us 2 months to build X, so with the same conditions it’s take us 2 months to build another one. In other circumstances you’ll need to use data on past performance in delivery as a predictor of future delivery. This is your input. It’s crucial for management to be aware that past results can provide an indicator of future performance, but there are no guarantees that the future will play out in the same way. Unforeseen events in the business environment, the global economy and the climate can render a forecast completely irrelevant. Nassim Taleb has written extensively with regards to what he called &lt;i&gt;“Black Swan”&lt;/i&gt; events. If you were to use past performance of the economy as a predictor of the future performance, then in 2008 you would have been caught out. Delivery performance, at least in terms of past output can and should be used to forecast future output (because it’s all we’ve got). But always be open to the possibility that the future may bring something that renders previous data irrelevant. That’s why we need to build in contingency, buffers and spare capacity. This is about building resilience. Efficiency is good up to a point, however it makes you susceptible to shocks relating to events that fall outside of your expectations. Taleb deals with the effects of efficiency causing fragility his subsequent book, &lt;i&gt;Antifragile[1]&lt;/i&gt;. Optimising for efficiency removes the ability to absorb shocks. Contrast the human body’s capacity to adapt, heal and often benefit from shocks (eg fasting), with traffic systems that are designed to a certain threshold and buckle when capacity over and above is needed. If you operate the M25 motorway at capacity, it goes no-where. Both the smooth flow of work and resistance require spare capacity; the relationship to forecasting of delivery is that the more optimised an organisation is for efficiency, the more fragile our operations and forecasts are to unforeseen events.&lt;/p&gt;
+
+&lt;p&gt;In delivery our forecasts usually look to say when an option will be complete (that is, an output created, or an action carried out). Below you can see some of the typical ways that forecasting is done in delivery.&lt;/p&gt;
+
+&lt;h4 id=&quot;time-based-forecasting---only-for-simple-contexts&quot;&gt;Time based forecasting - only for Simple contexts&lt;/h4&gt;
+
+&lt;p&gt;Here, work items are given time estimates by people that know exactly how long the job takes. They’ve done it, it’s a known quantity and it’s suitable for traditional waterfall project management.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Forecast = Critical path&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;This approach only works if the estimates are accurate. For this to be true:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;the person has had to done the work, or very similar work before.&lt;/li&gt;
+  &lt;li&gt;the integration of the work done by different individuals and teams is simple, it has been done before.&lt;/li&gt;
+  &lt;li&gt;the individuals doing the work and the work itself are only affected by predictable external factors. They factor these into their estimates, along with some buffer - even in Simple contexts curveballs happen. They are still subject to external factors, like illness, climate, economy etc.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Most work in large organisations will sit outside of these criteria. Even if work has been done before, the way it integrates with other work and with other teams will often be untested. That’s why most large projects or initiatives are destined to be late and over-budget. In fact, the bigger the project the more likely it is to be over budget due to the increasing complexity.&lt;/p&gt;
+
+&lt;p&gt;The following forms of forecasting are based on business cadence, that is, using proxies for quantities of past work to forecast when another quantity will be done.&lt;/p&gt;
+
+&lt;h4 id=&quot;velocity2-based-forecasting&quot;&gt;Velocity[2] based forecasting&lt;/h4&gt;
+
+&lt;p&gt;We’ve already discussed the fact that Management shouldn’t use Story Points as a measure of progress since they’re too far removed from verifiable value. The more complex the context, the more unlikely it is that teams will consistently get the sizing in the right ballpark, the less reliable the forecast. But when they do achieve a good level of consistency and get the measure of how much they can do within a time period (velocity) then they can use the information to forecast when future work might be completed.
+Deterministic forecast = (Remaining number of story points/Average Velocity) 
+This kind of forecast will provide a single number - whether of sprints or a delivery date. This can quite easily be misinterpreted by management as a commitment. There’s no indication about how probable it is that it’ll be achieved.&lt;/p&gt;
+
+&lt;p&gt;As we’ve discussed, since we should have delivery data, a better way to forecast is to provide a range and a probability. What’s the point of showing the deterministic forecast? I’ve done this because in some situations it may be appropriate; you may need some ‘back of the napkin’ calculations done in a hurry. You may see others doing it. It’s useful to know the difference.&lt;/p&gt;
+
+&lt;p&gt;To create a probabilistic forecast, you perform what’s known as a Monte Carlo simulation. Plugging in the previous velocities, the simulation will run 10,000 tests based on the data we’ve input and provide a histogram of all its results. This gives us our possibilities and the relevant probabilities. As an example, now instead of giving one date, we can say that there’s an 80 percent change that the option will be finished by mid- July. Not only does this provide richer data, it also clearly implies that this is not a certainty. Whilst you may wish you could have an exact date, knowing the reality is much more helpful in decision making. Plenty of exact dates have been given, costly preparations made, and the dates missed. Acknowledge the uncertainty and plan for it.&lt;/p&gt;
+
+&lt;p&gt;This approach to forecasting hinges on the Story Points being a proxy for the lead time on work. In environments where the lead time is affected by handovers and significant wait time it will not produce a forecast worth using. How you fix this is by creating teams that can deliver end to end, which will provide greater consistency and predictability.&lt;/p&gt;
+
+&lt;h4 id=&quot;throughput-based-forecasting&quot;&gt;Throughput based forecasting&lt;/h4&gt;
+
+&lt;p&gt;This type of forecasting uses the number of items completed over a given time period (throughput). Many organisations use User Stories. I class them as a type of option. No matter what you call them, as long as there’s a relatively even distribution of sizes, throughput does provide a relatively good way to forecast future work. Again, we can forecast in this way both deterministically and probabilistically.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;Deterministic forecast = (Number of stories remaining / Throughput)&lt;/i&gt;&amp;gt;&lt;/p&gt;
+
+&lt;p&gt;For the probabilistic forecast again you plug in the throughput data gathered over a time period and run the Monte Carlo simulation. The histogram will provide the range and probabilities.&lt;/p&gt;
+
+&lt;p&gt;Any type of forecast is based on past data or information. If inaccurate data is used, or the conditions change, then the forecast is likely to be much less accurate.&lt;/p&gt;
+
+&lt;p&gt;Finally, I will leave you with a quote from organisational theorist Russel Ackoff:&lt;/p&gt;
 &lt;blockquote&gt;
-  &lt;p&gt;“Measurement is fabulous. Unless you’re busy measuring what’s easy to measure as opposed to what’s important.”[1]&lt;br /&gt;
- 	&lt;i&gt;- Seth Godin (Author and entrepreneur)&lt;/i&gt;&lt;/p&gt;
+  &lt;p&gt;“A good deal of the corporate planning I have observed is like a ritual rain dance; it has no effect on the weather that follows, but those who engage in it think it does. Moreover, it seems to me that much of the advice and instruction related to corporate planning is directed at improving the dancing, not the weather.”[3]&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;In the previous chapter we saw the difference between leading and lagging indicators, and what can happen if you measure something that’s only loosely aligned to your overall goals. You’d be surprised at how many leaders use other people’s metrics to assess how things are going, even when they provide little information on whether business results are being achieved or values acted upon. I’ve witnessed managers obsessing over teams’ velocity&lt;i&gt;[2]&lt;/i&gt; whilst remaining ignorant of whether it bore any relation to the business outcomes (it didn’t). But, it’s easy to measure and other teams use it, so they latched onto it.&lt;/p&gt;
+&lt;p&gt;To use forecasts, set up a stable environment and system which will allow for some level of consistency. In doing so you will gain a much greater level of predictability. However create resilience in your organisation to ensure that any shocks are absorbed when they come.&lt;/p&gt;
 
-&lt;p&gt;Of course, similar organisations may be looking to achieve the same thing, and in those cases metrics may be alike. But that’s the wrong place to start. A measurement should provide information that helps you decide what to do next. It needs to take you in the direction of your goals and values. The weaker the relationship between what you’re measuring and what you actually want to achieve, the less useful that information is. Using it to decide on what to do next could mean setting off on the wrong path.&lt;/p&gt;
+&lt;h4 id=&quot;forecasting-1&quot;&gt;FORECASTING&lt;/h4&gt;
+&lt;p&gt;&lt;b&gt;The Good&lt;/b&gt; - more of this&lt;/p&gt;
 
-&lt;p&gt;This book is for organisations taking on progressive values, including but not limited to those shared by the Agile movement. If you’re moving in that direction, then you’ll need build the following organisation abilities.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Using past and current data and information to make a decision.&lt;/li&gt;
+  &lt;li&gt;Separate from target setting. The forecast should indicate if you’re on track to meet the target, but not be the target.&lt;/li&gt;
+  &lt;li&gt;Applying the forecasting approach based on the context.&lt;/li&gt;
+  &lt;li&gt;Probabilistic forecasting provides richer information and reflects reality.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;The ability to:&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Bad&lt;/b&gt; - can be misused or produce negative results&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;&lt;b&gt;ORIENT&lt;/b&gt;. Have a clear view of progress towards outcomes, so that measures can be taken to support teams to correct or change course.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;RESPOND&lt;/b&gt;. React and adapt to changing requirements, so that a firm can better compete in a complex and changing environment.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;COMMUNICATE&lt;/b&gt;. Creating an environment where individuals value one another and can be open, so that problems are exposed early and the creativity and potential of people can be leveraged.&lt;/li&gt;
-  &lt;li&gt;&lt;b&gt;LEARN&lt;/b&gt;. To cultivate a culture of reflection and continuous improvement throughout the organisation. Across people, process and product.&lt;/li&gt;
-&lt;/ol&gt;
+&lt;ul&gt;
+  &lt;li&gt;Ignoring whether the domain is Simple, Complicated or Complex.&lt;/li&gt;
+  &lt;li&gt;Deterministic forecasting misleads&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Building and improving these abilities isn’t easy but it will set you up for the best possible chance of success.&lt;/p&gt;
+&lt;p&gt;&lt;b&gt;The Ugly&lt;/b&gt; - bad practice in most organisational contexts&lt;/p&gt;
 
-&lt;p&gt;&lt;i&gt;[1] Godin, Seth. ‘Measuring without Measuring’. &lt;a href=&quot;https://seths.blog/2013/06/measuring-without-measuring/&quot; target=&quot;blank&quot;&gt;Seth’s Blog (blog), 1 June 2013&lt;/a&gt;.&lt;/i&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Holding teams and individuals to the forecast as if it were a commitment.&lt;/li&gt;
+  &lt;li&gt;Treating the forecast as a target.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;&lt;i&gt;[2] Velocity is a metric used by some Scrum teams: the number of ‘story points’ completed within a sprint. More on this later.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;1] Taleb, Nassim Nicholas, and Nassim Nicholas Taleb. Antifragile: Things That Gain from Disorder. Incerto, Nassim Nicholas Taleb[…]. London: Penguin Books, 2013.&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/use-cases-for-metrics&quot;&gt;next page (Use Cases for Metrics) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Chapter 2 looks at what to measure in your organisation.</summary></entry><entry><title type="html">CHAPTER 3 - Orient</title><link href="https://kaufie.com/understanding-context" rel="alternate" type="text/html" title="CHAPTER 3 - Orient" /><published>2020-09-06T00:00:00+01:00</published><updated>2020-09-06T00:00:00+01:00</updated><id>https://kaufie.com/understanding%20context</id><content type="html" xml:base="https://kaufie.com/understanding-context">&lt;p&gt;&lt;a href=&quot;/orient&quot;&gt;&amp;lt; previous page (Orient)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;[2] Velocity is a term used for average number of story points “banked” by completing features over a regular time boxed cadence.&lt;/i&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;understanding-context&quot;&gt;Understanding context&lt;/h2&gt;
+&lt;p&gt;&lt;i&gt;[3] Ackoff, Russell Lincoln. Creating the Corporate Future: Plan or Be Planned For. New York: Wiley, 1981. p. ix&lt;/i&gt;&lt;/p&gt;
 
-&lt;p&gt;How you deliver, and how you measure progress depends on the level of complexity of the domain you’re working in. Like the well known saying; “Horses for courses” - you need to assess the approach depending on the situation.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/respond&quot;&gt;next page (Organisational Ability: Respond) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Forecasting - predicting the future based on limited data..</summary></entry><entry><title type="html">CHAPTER 5 - Communicate</title><link href="https://kaufie.com/communicate" rel="alternate" type="text/html" title="CHAPTER 5 - Communicate" /><published>2020-09-10T00:00:00+01:00</published><updated>2020-09-10T00:00:00+01:00</updated><id>https://kaufie.com/communicate</id><content type="html" xml:base="https://kaufie.com/communicate">&lt;p&gt;&lt;a href=&quot;/respond&quot;&gt;&amp;lt; previous page (Chapter 4: Respond)&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;In their paper &lt;i&gt;“A Leader’s Framework for Decision Making”&lt;/i&gt; David Snowden and Mary Boone introduce Cynefin[1] and the five contexts; simple, complicated, complex, chaotic and disorder. For the purposes of this book, we’re interested in the contrast between the simple, the complicated and the complex in guiding our decisions on delivery.&lt;/p&gt;
+&lt;h2 id=&quot;communicate&quot;&gt;Communicate&lt;/h2&gt;
 
-&lt;p&gt;The &lt;b&gt;Simple&lt;/b&gt; context is stable and predictable. This is the domain of best practice - we know what works and generally there’s one clear way of doing it. Leaders should assess the facts of the situation, categorise the work and identify the best practice that fits. An off the shelf delivery plan can be followed with accuracy.&lt;/p&gt;
+&lt;p&gt;Coming in December 2020.&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Communicate.</summary></entry><entry><title type="html">CHAPTER 6 - Learn</title><link href="https://kaufie.com/learn" rel="alternate" type="text/html" title="CHAPTER 6 - Learn" /><published>2020-09-10T00:00:00+01:00</published><updated>2020-09-10T00:00:00+01:00</updated><id>https://kaufie.com/learn</id><content type="html" xml:base="https://kaufie.com/learn">&lt;p&gt;&lt;a href=&quot;/communicate&quot;&gt;&amp;lt; previous page (Chapter 5: Communicate)&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;The &lt;b&gt;Complicated&lt;/b&gt; context is the &lt;i&gt;“domain of experts”&lt;/i&gt;. Here there tend to be multiple right answers. The cause and effect relationship is clear but not to everyone, which is why this domain has specialists who may advise on differing good practice. For this reason after assessing facts, analysis is needed in order to find a solution. A good way to picture the complicated context is as a machine. A driver may notice a problem, but it would take a mechanic to diagnose it. Although not straightforward for the average driver, there are manuals documenting every inch of the car  and the mechanic should be able to take it apart and put it back together. In delivery, with the right expertise complicated work follows a plan, but the more components there are, the greater need there is for regular integration to ensure the end result will work.&lt;/p&gt;
+&lt;h2 id=&quot;learn&quot;&gt;Learn&lt;/h2&gt;
 
-&lt;p&gt;The &lt;b&gt;Complex&lt;/b&gt; context is &lt;i&gt;“emergent”&lt;/i&gt;. There are no known answers. We need to probe - run some experiments - try some approaches, sense the impact these have made, and respond based on what we’ve learned. It requires patience and toleration of failure so that the right approach emerges, which leads to the results. For the contrast between complex and complicated, view the complex as more like an ecosystem. Changes in climate or the removal of one part of an ecosystem can have big, hard to predict knock on effects. We’ll see that more often organisations are situated in the complex context. A plan to take us to the outcome cannot exist in this context as by definition, the right way will need to be discovered with a test and learn approach.&lt;/p&gt;
-
-&lt;p&gt;The contexts border upon each other, and problems occur when a mis-categorisation leads to the wrong approach. An expert may apply their good practice on a complex context that requires a more iterative, trial and error process. This can lead to massive waste and failure to achieve the goal. We cannot accurately predict the result of our actions when dealing with the Complex, which is why we must test and learn. The Agile and Business consultancy industry is full of well meaning individuals with &lt;i&gt;“man with a hammer syndrome”[2]&lt;/i&gt; when the same solution (usually an off the shelf scaling framework) is applied to every problem.&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;[1] Snowden, D. J., and M.E. Boone. ‘A Leader’s Framework for Decision Making’. Harvard Business Review 85, no. 11 (2007): 68–76.&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;[2] “..it is tempting, if the only tool you have is a hammer, to treat everything as if it were a nail.” - Abraham Maslow in The Psychology of Science: A Reconnaissance (1966)&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/applying-approach-to-context&quot;&gt;next page (Applying Approach to Context) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Developing the organisational ability to Orient.</summary></entry><entry><title type="html">CHAPTER 3 - Orient</title><link href="https://kaufie.com/orient" rel="alternate" type="text/html" title="CHAPTER 3 - Orient" /><published>2020-09-06T00:00:00+01:00</published><updated>2020-09-06T00:00:00+01:00</updated><id>https://kaufie.com/orient</id><content type="html" xml:base="https://kaufie.com/orient">&lt;p&gt;&lt;a href=&quot;/good-bad-ugly&quot;&gt;&amp;lt; previous page (The Good, the Bad and the Ugly)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Coming in February 2021.&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Learn.</summary></entry><entry><title type="html">CHAPTER 3 - Orient</title><link href="https://kaufie.com/orient" rel="alternate" type="text/html" title="CHAPTER 3 - Orient" /><published>2020-09-06T00:00:00+01:00</published><updated>2020-09-06T00:00:00+01:00</updated><id>https://kaufie.com/orient</id><content type="html" xml:base="https://kaufie.com/orient">&lt;p&gt;&lt;a href=&quot;/good-bad-ugly&quot;&gt;&amp;lt; previous page (The Good, the Bad and the Ugly)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;orient-the-ability-to-measure-where-you-are-in-relation-to-where-you-want-to-be&quot;&gt;Orient: the ability to measure where you are in relation to where you want to be&lt;/h2&gt;
 
@@ -208,7 +278,7 @@
 &lt;/ul&gt;
 
 &lt;p&gt;&lt;img class=&quot;lead-image&quot; src=&quot;/assets/images/summary_of_domains.png&quot; alt=&quot;Summary of domains&quot; style=&quot;max-width:100%;&quot; /&gt;&lt;/p&gt;
-&lt;p class=&quot;image-credit&quot;&gt;Summary of domains [3]&lt;/p&gt;
+&lt;p class=&quot;image-credit&quot;&gt;Summary of domains: table based on the Cynefin framework [3]&lt;/p&gt;
 
 &lt;h3 id=&quot;summary-of-measuring-progress&quot;&gt;SUMMARY OF MEASURING PROGRESS&lt;/h3&gt;
 
@@ -281,108 +351,34 @@
 &lt;p&gt;&lt;br /&gt;
 We’ll be exploring each of these individually in detail.&lt;/p&gt;
 
-&lt;p&gt;&lt;a href=&quot;/good-bad-ugly&quot;&gt;next page (The Good, the Bad and the Ugly) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Chapter 2 looks at what to measure in your organisation.</summary></entry><entry><title type="html">CHAPTER 1 - Terms</title><link href="https://kaufie.com/leading-and-lagging-indicators" rel="alternate" type="text/html" title="CHAPTER 1 - Terms" /><published>2020-09-05T00:00:00+01:00</published><updated>2020-09-05T00:00:00+01:00</updated><id>https://kaufie.com/leading-and-lagging-indicators</id><content type="html" xml:base="https://kaufie.com/leading-and-lagging-indicators">&lt;p&gt;&lt;a href=&quot;/terms&quot;&gt;&amp;lt; previous page (Mearurements, Metrics and KPIs)&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;/good-bad-ugly&quot;&gt;next page (The Good, the Bad and the Ugly) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Chapter 2 looks at what to measure in your organisation.</summary></entry><entry><title type="html">CHAPTER 2 - What to measure</title><link href="https://kaufie.com/what-to-measure" rel="alternate" type="text/html" title="CHAPTER 2 - What to measure" /><published>2020-09-06T00:00:00+01:00</published><updated>2020-09-06T00:00:00+01:00</updated><id>https://kaufie.com/what-to-measure</id><content type="html" xml:base="https://kaufie.com/what-to-measure">&lt;p&gt;&lt;a href=&quot;/options-and-outcomes&quot;&gt;&amp;lt; previous page (CHAPTER 1 - Options and Outcomes)&lt;/a&gt;&lt;/p&gt;
 
-&lt;h2 id=&quot;leading-and-lagging-indicators&quot;&gt;Leading and lagging indicators&lt;/h2&gt;
-
-&lt;p&gt;To illustrate the difference between leading and lagging indicators, let’s look at a simple example:&lt;/p&gt;
-
-&lt;p&gt;My daughter is learning how to play the guitar.&lt;/p&gt;
-
-&lt;p&gt;The more she practices, the better she’ll get. There’s a link between how much practice she puts in and the desired outcome, in this case good guitar playing skills. Hours practiced is a leading indicator. It provides us with information we can use to predict the future outcome before it has materialised. More practice means better guitar playing.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Leading indicator: A measurement that provides information on what a situation or outcome may be in the future.&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Notice that I’ve said &lt;i&gt;‘may’&lt;/i&gt; rather than ‘will’. Since a leading indicator predicts the future, it guides us but that doesn’t mean it will always be accurate. Sticking to the example I’ve used, there’s a well known correlation between practice and success in most activities, which makes practice a good leading indicator to influence for musical success. But, if I were to pick up the same guitar, it’s possible that no amount of practice will make me good at it. Still, it’s the best way to have a shot at becoming a rockstar!&lt;/p&gt;
-
-&lt;p&gt;Other examples of leading indicators: the results of safety inspections as a leading indicator for safety in manufacturing companies; claims for unemployment benefit as a leading indicator for the economy; employee satisfaction as a leading indicator for staff retention; the smell coming from the kitchen as a leading indicator of a good meal. It’s not always straightforward to identify leading indicators, but when you do, you have a powerful lever for achieving your desired results.&lt;/p&gt;
-
-&lt;p&gt;Leading indicators:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Help us look forward to future outcomes.&lt;/li&gt;
-  &lt;li&gt;Are typically harder to measure than lagging, but easier and more powerful to influence.&lt;/li&gt;
-  &lt;li&gt;Predict what may happen with accuracy that varies according to the strength of the relationship between indicator and result. [1]&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Lagging indicators are much easier to measure, since they’re the result of past actions. This is generally an output.&lt;/p&gt;
-
-&lt;p&gt;Going back to the example I gave of my guitar playing daughter, the lagging indicator for her skill (the desired outcome) could be the number of tunes she can play, or number of errors in the tunes. Easy to measure, however harder to leverage and influence. If she knows that practice helps her to improve, and she works on that leading indicator (in this case practicing more), she knows it will improve her proficiency. In contrast, the lagging indicators show the results of past actions and as such are only useful in telling us how we’ve done.&lt;/p&gt;
-
-&lt;p&gt;&lt;b&gt;Lagging indicator: A measurement that provides information on what a situation has been like in the past.&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Focussing on lagging indicators can be counter productive.&lt;/p&gt;
-&lt;blockquote&gt;
-  &lt;p&gt;“People do what you count, not necessarily what counts” [2].&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;If you focus on the indicator, it can lead to optimising for output over outcome. In our musical example, let’s say we focus on the lagging indicator ‘number of errors’. This could influence my daughter to pick easy, or short tunes which will indeed most likely lead to fewer errors. However, if our desired outcome is improved guitar skill then this is missing the point. A complicated tune with a few errors is surely demonstrating more skill than an easy song with none. In business this kind of focus on outputs over outcomes is common. It could be a development team hitting targets for the number of features delivered, whilst not delivering business results; or a manufacturing plant hitting targets for the number of units delivered, but causing the business to loose money with high levels of returns due to defects. That’s why &lt;b&gt;we need to be really careful of what we measure.&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;Other examples of typical lagging indicators: number of sales, number of projects delivered, revenue, staff turnover.&lt;/p&gt;
-
-&lt;p&gt;Lagging indicators:&lt;/p&gt;
-
-&lt;ul&gt;
-  &lt;li&gt;Look backwards, showing us the results of past actions.&lt;/li&gt;
-  &lt;li&gt;Typically emphasise outputs over outcomes.&lt;/li&gt;
-  &lt;li&gt;Are easy to measure, but do not provide the leverage to improve. By the time you’re looking at the result, it’s too late to do anything about it.&lt;/li&gt;
-  &lt;li&gt;Can be gamed, at the expense of the outcome.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Why does this matter? &lt;b&gt;Think of the leading indicators as the rudder of a ship. You use them to steer and change course. The lagging indicators should be the radar system and GPS. They show where you are. Used together in the right way they are important tools to achieve desired outcomes.&lt;/b&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;[1] Practice is closely related to guitar skill, but if I use quality of service in a restaurant as a leading indicator for a great meal, I may be disappointed (or surprised) more often than not when I get a bad meal with impeccable service, or vice versa.&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;i&gt;[2] Seddon, John. I Want You to Cheat!: The Unreasonable Guide to Service and Quality in Organisation. Buckingham: Vanguard Press, 2007. p83&lt;/i&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a href=&quot;/options-and-outcomes&quot;&gt;next page (Options and Outcomes) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Leading and lagging indicators.</summary></entry><entry><title type="html">CHAPTER 1 - Terms</title><link href="https://kaufie.com/options-and-outcomes" rel="alternate" type="text/html" title="CHAPTER 1 - Terms" /><published>2020-09-05T00:00:00+01:00</published><updated>2020-09-05T00:00:00+01:00</updated><id>https://kaufie.com/options-and-outcomes</id><content type="html" xml:base="https://kaufie.com/options-and-outcomes">&lt;p&gt;&lt;a href=&quot;/leading-and-lagging-indicators&quot;&gt;&amp;lt; previous page (Leading and Lagging Indicators)&lt;/a&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;outcomes-options-and-tasks&quot;&gt;Outcomes, Options and Tasks&lt;/h2&gt;
-
-&lt;p&gt;There many frameworks, methods and practices for breaking work down. I like to keep things simple, and where possible universal.&lt;/p&gt;
-
-&lt;p&gt;An &lt;b&gt;Outcome&lt;/b&gt; is a high level business objective. Something that happens as the result of something else.&lt;/p&gt;
-
-&lt;p&gt;To get an outcome, you need &lt;b&gt;Options&lt;/b&gt;. These can be actions or outputs that once completed contribute to the outcome in a measurable way. There may be many options that would satisfy an outcome. It’s up to you to decide which is best.&lt;/p&gt;
-
-&lt;p&gt;To carry out an Option, whether it’s building something or doing something, you’ll need to carry out &lt;b&gt;Tasks&lt;/b&gt;.&lt;/p&gt;
-
-&lt;p&gt;An example:&lt;/p&gt;
-
-&lt;p&gt;Outcome: Increased market share 
-Options: New social share features on website. Advertising campaign. Takeover competitor.&lt;/p&gt;
-
-&lt;p&gt;Big Options can be broken down into small Options - we’ll get to why that’s a good idea and look at some examples in Chapter 3.&lt;/p&gt;
-
-&lt;p&gt;Some common terms and how they relate:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;User stories - called such to emphasise the value of understanding within the team, and from the perspective of who a feature is for, what it is and what the purpose of it is. A user story would be an option as would any parent big picture item, often called an “Epic”.&lt;/li&gt;
-  &lt;li&gt;Requirements - these would be a subset of an Option. Criteria to tell us what should be included. Rarely of value on their own, typically in Agile requirements manifest as acceptance criteria within user stories.
-    &lt;ul&gt;
-      &lt;li&gt;Bets - I like the implication that we don’t know if it will work. All options in the complex context are bets. When you move into the simple or complicated context and you start dealing  with sure things, the term “option” holds better and more broadly.&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;/what-to-measure&quot;&gt;next page (CHAPTER 2 - What to Measure) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Options and outcomes.</summary></entry><entry><title type="html">CHAPTER 1 - Terms</title><link href="https://kaufie.com/terms" rel="alternate" type="text/html" title="CHAPTER 1 - Terms" /><published>2020-09-04T00:00:00+01:00</published><updated>2020-09-04T00:00:00+01:00</updated><id>https://kaufie.com/terms</id><content type="html" xml:base="https://kaufie.com/terms">&lt;h2 id=&quot;measurements-metrics-and-kpis&quot;&gt;Measurements, metrics and KPIs&lt;/h2&gt;
-
-&lt;p&gt;Often the terms measurements, metrics and KPIs are used interchangeably, however there are some differences. Measurement is defined by Douglas W. Hubbard in his excellent book “How to Measure Anything”:&lt;/p&gt;
+&lt;h2 id=&quot;what-should-we-measure&quot;&gt;What should we measure?&lt;/h2&gt;
 
 &lt;blockquote&gt;
-  &lt;p&gt;Measurement: a set of observations that reduce uncertainty where the result is expressed as a quantity.
-[1]&lt;/p&gt;
+  &lt;p&gt;“Measurement is fabulous. Unless you’re busy measuring what’s easy to measure as opposed to what’s important.”[1]&lt;br /&gt;
+ 	&lt;i&gt;- Seth Godin (Author and entrepreneur)&lt;/i&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;A measurement should provide us with information that helps us decide what to do next.&lt;/p&gt;
+&lt;p&gt;In the previous chapter we saw the difference between leading and lagging indicators, and what can happen if you measure something that’s only loosely aligned to your overall goals. You’d be surprised at how many leaders use other people’s metrics to assess how things are going, even when they provide little information on whether business results are being achieved or values acted upon. I’ve witnessed managers obsessing over teams’ velocity&lt;i&gt;[2]&lt;/i&gt; whilst remaining ignorant of whether it bore any relation to the business outcomes (it didn’t). But, it’s easy to measure and other teams use it, so they latched onto it.&lt;/p&gt;
 
-&lt;p&gt;As an example, lets say that managers in one organisation want to improve staff retention. They carry out a set of actions, measuring staff turnover before and after. If turnover has reduced, then they have an indication that what they have done has worked, they either keep doing it, tweak it or do nothing. If it hasn’t, then they know something has to change.&lt;/p&gt;
+&lt;p&gt;Of course, similar organisations may be looking to achieve the same thing, and in those cases metrics may be alike. But that’s the wrong place to start. A measurement should provide information that helps you decide what to do next. It needs to take you in the direction of your goals and values. The weaker the relationship between what you’re measuring and what you actually want to achieve, the less useful that information is. Using it to decide on what to do next could mean setting off on the wrong path.&lt;/p&gt;
 
-&lt;p&gt;Although often used interchangeably with measurement, a metric is the product of a calculation, a method for measurement or a measurement from a standardised system. For example, a telecoms operator uses a customer churn metric to measure how well they’re doing at retaining customers (number of churned customers / total number of customers).&lt;/p&gt;
+&lt;p&gt;This book is for organisations taking on progressive values, including but not limited to those shared by the Agile movement. If you’re moving in that direction, then you’ll need build the following organisation abilities.&lt;/p&gt;
 
-&lt;p&gt;The term key performance indicator (KPI) refers to measurements or metrics that are specifically used in relation to business related objectives. They signal that this is an important measurement for success. Going back to our previous example of the customer churn metric, if this is something the company will want to move the needle on, it will be considered a KPI.&lt;/p&gt;
+&lt;p&gt;The ability to:&lt;/p&gt;
 
-&lt;p&gt;&lt;img class=&quot;lead-image&quot; src=&quot;/assets/images/measurement-terms.png&quot; alt=&quot;metric kpi and measurement relationship diagram&quot; style=&quot;max-width:100%;&quot; /&gt;
-￼
-&lt;i&gt;[1] Hubbard, Douglas W. How to Measure Anything: Finding the Value of ‘Intangibles’ in Business. Hoboken, N.J: John Wiley &amp;amp; Sons, 2007. p21 &lt;/i&gt;&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;b&gt;ORIENT&lt;/b&gt;. Have a clear view of progress towards outcomes, so that measures can be taken to support teams to correct or change course.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;RESPOND&lt;/b&gt;. React and adapt to changing requirements, so that a firm can better compete in a complex and changing environment.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;COMMUNICATE&lt;/b&gt;. Creating an environment where individuals value one another and can be open, so that problems are exposed early and the creativity and potential of people can be leveraged.&lt;/li&gt;
+  &lt;li&gt;&lt;b&gt;LEARN&lt;/b&gt;. To cultivate a culture of reflection and continuous improvement throughout the organisation. Across people, process and product.&lt;/li&gt;
+&lt;/ol&gt;
 
-&lt;p&gt;&lt;a href=&quot;/leading-and-lagging-indicators&quot;&gt;next page (Leading and Lagging Indicators) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Terms.</summary></entry></feed>
+&lt;p&gt;Building and improving these abilities isn’t easy but it will set you up for the best possible chance of success.&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;[1] Godin, Seth. ‘Measuring without Measuring’. &lt;a href=&quot;https://seths.blog/2013/06/measuring-without-measuring/&quot; target=&quot;blank&quot;&gt;Seth’s Blog (blog), 1 June 2013&lt;/a&gt;.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;i&gt;[2] Velocity is a metric used by some Scrum teams: the number of ‘story points’ completed within a sprint. More on this later.&lt;/i&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;/use-cases-for-metrics&quot;&gt;next page (Use Cases for Metrics) &amp;gt;&lt;/a&gt;&lt;/p&gt;</content><author><name>sash</name></author><category term="organisational-abilities" /><category term="measurement" /><summary type="html">Chapter 2 looks at what to measure in your organisation.</summary></entry></feed>
