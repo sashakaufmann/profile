@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://kaufie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kaufie.com/" rel="alternate" type="text/html" /><updated>2020-09-10T14:49:51+01:00</updated><id>https://kaufie.com/feed.xml</id><subtitle>Sasha Kaufmann's profile website and article archive.</subtitle><entry><title type="html">CHAPTER 4 - Respond</title><link href="https://kaufie.com/respond" rel="alternate" type="text/html" title="CHAPTER 4 - Respond" /><published>2020-09-10T00:00:00+01:00</published><updated>2020-09-10T00:00:00+01:00</updated><id>https://kaufie.com/respond</id><content type="html" xml:base="https://kaufie.com/respond">&lt;p&gt;&lt;a href=&quot;/forecasting&quot;&gt;&amp;lt; previous page (forecasting)&lt;/a&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://kaufie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kaufie.com/" rel="alternate" type="text/html" /><updated>2020-09-10T21:46:09+01:00</updated><id>https://kaufie.com/feed.xml</id><subtitle>Sasha Kaufmann's profile website and article archive.</subtitle><entry><title type="html">CHAPTER 4 - Respond</title><link href="https://kaufie.com/respond" rel="alternate" type="text/html" title="CHAPTER 4 - Respond" /><published>2020-09-10T00:00:00+01:00</published><updated>2020-09-10T00:00:00+01:00</updated><id>https://kaufie.com/respond</id><content type="html" xml:base="https://kaufie.com/respond">&lt;p&gt;&lt;a href=&quot;/forecasting&quot;&gt;&amp;lt; previous page (forecasting)&lt;/a&gt;&lt;/p&gt;
 
 &lt;h2 id=&quot;respond&quot;&gt;Respond&lt;/h2&gt;
 
@@ -104,7 +104,7 @@ This kind of forecast will provide a single number - whether of sprints or a del
   &lt;li&gt;Treating the forecast as a target.&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;p&gt;&lt;i&gt;1] Taleb, Nassim Nicholas, and Nassim Nicholas Taleb. Antifragile: Things That Gain from Disorder. Incerto, Nassim Nicholas Taleb[…]. London: Penguin Books, 2013.&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;&lt;i&gt;[1] Taleb, Nassim Nicholas, and Nassim Nicholas Taleb. Antifragile: Things That Gain from Disorder. Incerto, Nassim Nicholas Taleb[…]. London: Penguin Books, 2013.&lt;/i&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;i&gt;[2] Velocity is a term used for average number of story points “banked” by completing features over a regular time boxed cadence.&lt;/i&gt;&lt;/p&gt;
 
