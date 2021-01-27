@@ -1,8 +1,85 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://kaufie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kaufie.com/" rel="alternate" type="text/html" /><updated>2021-01-19T18:35:29+00:00</updated><id>https://kaufie.com/feed.xml</id><subtitle>Sasha Kaufmann's profile website and article archive.</subtitle><entry><title type="html">Agent Sonya - Lover, Mother, Soldier, Spy</title><link href="https://kaufie.com/agent-sonya-by-ben-macintyre" rel="alternate" type="text/html" title="Agent Sonya - Lover, Mother, Soldier, Spy" /><published>2021-01-18T00:00:00+00:00</published><updated>2021-01-18T00:00:00+00:00</updated><id>https://kaufie.com/agent-sonya-by-ben-macintyre</id><content type="html" xml:base="https://kaufie.com/agent-sonya-by-ben-macintyre">&lt;p&gt;The remarkable life of Ursula Kuczynski. German Jewish communist, mother, radio technician, writer, spy and spymaster. Carrying out covert activities through the horrors of Nazism; in Japanese occupied China, spy ridden Switzerland and in the rolling hills of the Cotswolds. The engrossing life story of an idealistic (albeit ultimately misguided), determined and very tough woman. Recommended.
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://kaufie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kaufie.com/" rel="alternate" type="text/html" /><updated>2021-01-27T21:30:13+00:00</updated><id>https://kaufie.com/feed.xml</id><subtitle>Sasha Kaufmann's profile website and article archive.</subtitle><entry><title type="html">Making Work Visible</title><link href="https://kaufie.com/making-work-visible-by-Domenica-DeGrandis" rel="alternate" type="text/html" title="Making Work Visible" /><published>2021-01-27T00:00:00+00:00</published><updated>2021-01-27T00:00:00+00:00</updated><id>https://kaufie.com/making-work-visible-by-Domenica-DeGrandis</id><content type="html" xml:base="https://kaufie.com/making-work-visible-by-Domenica-DeGrandis">&lt;p&gt;Accessible guide to making work visible; exposing time thieves and using Kanban practices to improve flow. So easy to read it’s great as a refresher for practitioners and a strong entry point for pretty much everyone else.
 &lt;!--more--&gt;&lt;/p&gt;
-&lt;hr /&gt;</content><author><name></name></author><category term="notes" /><category term="spy" /><category term="espionage" /><category term="ww2" /><category term="russia" /><summary type="html">The remarkable life of Ursula Kuczynski. German Jewish communist, mother, radio technician, writer, spy and spymaster. Carrying out covert activities through the horrors of Nazism; in Japanese occupied China, spy ridden Switzerland and in the rolling hills of the Cotswolds. The engrossing life story of an idealistic (albeit ultimately misguided), determined and very tough woman. Recommended.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/book-sonya.jpg" /><media:content medium="image" url="https://kaufie.com/book-sonya.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Into Thin Air</title><link href="https://kaufie.com/into-thin-air-by-jon-krakauer" rel="alternate" type="text/html" title="Into Thin Air" /><published>2021-01-02T00:00:00+00:00</published><updated>2021-01-02T00:00:00+00:00</updated><id>https://kaufie.com/into-thin-air-by-jon-krakauer</id><content type="html" xml:base="https://kaufie.com/into-thin-air-by-jon-krakauer">&lt;p&gt;This is an account of the 1996 Everest disaster by a journalist who was with one of the groups. Eight climbers lost their lives; the author attempts to get to the heart of what happened up there. It’s rarely a single mistake that creates these events. In this case we learn about the commercialisation of Everest, the danger of inexperienced climbers paying to be taken up, the competition between tour groups and the myriad of human errors that happen when the brain is starved of oxygen. As fascinating as the subject is, the book is brilliantly written, with an engaging build up and a pace that keeps the page turning. This one went quickly.
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;notes&quot;&gt;Notes&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Make work visible.&lt;/li&gt;
+  &lt;li&gt;Limit work-in-progress (WIP).&lt;/li&gt;
+  &lt;li&gt;Measure and manage the flow of work.&lt;/li&gt;
+  &lt;li&gt;Prioritise effectively.&lt;/li&gt;
+  &lt;li&gt;Make adjustments based on lessons from feedback and metrics.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-5-thieves-of-time&quot;&gt;The 5 thieves of time&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Too much work in progress (WIP)&lt;/li&gt;
+  &lt;li&gt;Unknown dependencies&lt;/li&gt;
+  &lt;li&gt;Unplanned work&lt;/li&gt;
+  &lt;li&gt;Conflicting priorities&lt;/li&gt;
+  &lt;li&gt;Neglected work&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;how-to-expose-time-theft-to-optimise-workflow&quot;&gt;How to expose time theft to optimise workflow&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Make work visible&lt;/li&gt;
+  &lt;li&gt;Make WIP visible and limit it&lt;/li&gt;
+  &lt;li&gt;Expose dependencies&lt;/li&gt;
+  &lt;li&gt;Unplanned work&lt;/li&gt;
+  &lt;li&gt;Prioritise&lt;/li&gt;
+  &lt;li&gt;Prevent negligence&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;flow-metrics&quot;&gt;Flow metrics&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Flow time: a measure of how long something took to do from beginning to end.&lt;/li&gt;
+  &lt;li&gt;Cycle time: ambiguous - different meanings depending on who you ask.&lt;/li&gt;
+  &lt;li&gt;WIP is a leading indicator.&lt;/li&gt;
+  &lt;li&gt;Little’s Law assumptions
+    &lt;ul&gt;
+      &lt;li&gt;All measure units are consistent.&lt;/li&gt;
+      &lt;li&gt;Average arrival rate = average departure rate.&lt;/li&gt;
+      &lt;li&gt;All work that enters the system flows to competion and exists.&lt;/li&gt;
+      &lt;li&gt;Average age of WIP is neither increasing or decreasing.&lt;/li&gt;
+      &lt;li&gt;The total amount of WIP is roughly the same at the beginning and at the end.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Queuing Theory
+    &lt;ul&gt;
+      &lt;li&gt;There’s a direct correlation between WIP and capacity utilization.&lt;/li&gt;
+      &lt;li&gt;Unpredictable events cause variability. The more variability, the more vulnerable we are to capacity overload.&lt;/li&gt;
+      &lt;li&gt;The single biggest factor that affects queue size is capacity utilization.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Kingman’s formula shows an approximation for the average wait time in a queue.
+    &lt;ul&gt;
+      &lt;li&gt;As we move from 60%-80% utilization, the queue doubles. As we move from 80%-90% it doubles again.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;finding-out-where-waste-is-emerging&quot;&gt;Finding out where waste is emerging&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Consider measuring:
+    &lt;ul&gt;
+      &lt;li&gt;Unplanned work&lt;/li&gt;
+      &lt;li&gt;Unknown dependencies&lt;/li&gt;
+      &lt;li&gt;Conflicting priorities&lt;/li&gt;
+      &lt;li&gt;Neglacted work&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Reporting
+    &lt;ul&gt;
+      &lt;li&gt;Aging reports&lt;/li&gt;
+      &lt;li&gt;Card type distribution&lt;/li&gt;
+      &lt;li&gt;Failure load (value demand vs failure demand)&lt;/li&gt;
+      &lt;li&gt;Flow efficiency&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="notes" /><summary type="html">Accessible guide to making work visible; exposing time thieves and using Kanban practices to improve flow. So easy to read it’s great as a refresher for practitioners and a strong entry point for pretty much everyone else.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/book-making-work-visible.jpg" /><media:content medium="image" url="https://kaufie.com/book-making-work-visible.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Agent Sonya - Lover, Mother, Soldier, Spy</title><link href="https://kaufie.com/agent-sonya-by-ben-macintyre" rel="alternate" type="text/html" title="Agent Sonya - Lover, Mother, Soldier, Spy" /><published>2021-01-18T00:00:00+00:00</published><updated>2021-01-18T00:00:00+00:00</updated><id>https://kaufie.com/agent-sonya-by-ben-macintyre</id><content type="html" xml:base="https://kaufie.com/agent-sonya-by-ben-macintyre">&lt;p&gt;The remarkable life of Ursula Kuczynski. German Jewish communist, mother, radio technician, writer, spy and spymaster. Carrying out covert activities through the horrors of Nazism; in Japanese occupied China, spy ridden Switzerland and in the rolling hills of the Cotswolds. The engrossing life story of an idealistic (albeit ultimately misguided), determined and very tough woman. Recommended.
 &lt;!--more--&gt;&lt;/p&gt;
-&lt;hr /&gt;</content><author><name></name></author><category term="notes" /><category term="adventure" /><category term="mountaineering" /><category term="survival" /><summary type="html">This is an account of the 1996 Everest disaster by a journalist who was with one of the groups. Eight climbers lost their lives; the author attempts to get to the heart of what happened up there. It’s rarely a single mistake that creates these events. In this case we learn about the commercialisation of Everest, the danger of inexperienced climbers paying to be taken up, the competition between tour groups and the myriad of human errors that happen when the brain is starved of oxygen. As fascinating as the subject is, the book is brilliantly written, with an engaging build up and a pace that keeps the page turning. This one went quickly.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/book-intothinair.jpg" /><media:content medium="image" url="https://kaufie.com/book-intothinair.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The fast way to identify bad technique</title><link href="https://kaufie.com/the-fast-way-to-identify-bad-technique" rel="alternate" type="text/html" title="The fast way to identify bad technique" /><published>2021-01-02T00:00:00+00:00</published><updated>2021-01-02T00:00:00+00:00</updated><id>https://kaufie.com/the-fast-way-to-identify-bad-technique</id><content type="html" xml:base="https://kaufie.com/the-fast-way-to-identify-bad-technique">&lt;p&gt;Technique achieves mastery. It’s the skill with which you do something. To refine it you need to learn what you’re doing right, but more crucially what you’re doing wrong.&lt;/p&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="notes" /><category term="spy" /><category term="espionage" /><category term="ww2" /><category term="russia" /><summary type="html">The remarkable life of Ursula Kuczynski. German Jewish communist, mother, radio technician, writer, spy and spymaster. Carrying out covert activities through the horrors of Nazism; in Japanese occupied China, spy ridden Switzerland and in the rolling hills of the Cotswolds. The engrossing life story of an idealistic (albeit ultimately misguided), determined and very tough woman. Recommended.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/book-sonya.jpg" /><media:content medium="image" url="https://kaufie.com/book-sonya.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The fast way to identify bad technique</title><link href="https://kaufie.com/the-fast-way-to-identify-bad-technique" rel="alternate" type="text/html" title="The fast way to identify bad technique" /><published>2021-01-02T00:00:00+00:00</published><updated>2021-01-02T00:00:00+00:00</updated><id>https://kaufie.com/the-fast-way-to-identify-bad-technique</id><content type="html" xml:base="https://kaufie.com/the-fast-way-to-identify-bad-technique">&lt;p&gt;Technique achieves mastery. It’s the skill with which you do something. To refine it you need to learn what you’re doing right, but more crucially what you’re doing wrong.&lt;/p&gt;
 
 &lt;p&gt;When you do weights, the heavier you go, the clearer the feedback you get on bad technique; you get hurt.&lt;/p&gt;
 
@@ -16,7 +93,9 @@
 
 &lt;p&gt;A trainer or coach can help improve technique without you having to go through that pain. With weights thats probably the smart way of doing it. In general though nothing helps you grow and learn more than first hand experience. It’s the pain, physical or psychological, that makes you change.&lt;/p&gt;
 
-&lt;p&gt;A reminder: push beyond your comfort zone to significantly improve. But make sure your technique is “good enough” to take the real or metaphorical weight.&lt;/p&gt;</content><author><name>sash</name></author><category term="life" /><category term="technique" /><category term="skill" /><category term="life" /><summary type="html">Push beyond your comfort zone without getting hurt.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/kettlebell.jpeg" /><media:content medium="image" url="https://kaufie.com/kettlebell.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hard Boiled Wonderland and the End of the World</title><link href="https://kaufie.com/hard-boiled-wonderland-and-the-end-of-the-world-by-haruki-murakami" rel="alternate" type="text/html" title="Hard Boiled Wonderland and the End of the World" /><published>2020-12-24T00:00:00+00:00</published><updated>2020-12-24T00:00:00+00:00</updated><id>https://kaufie.com/hard-boiled-wonderland-and-the-end-of-the-world-by-haruki-murakami</id><content type="html" xml:base="https://kaufie.com/hard-boiled-wonderland-and-the-end-of-the-world-by-haruki-murakami">&lt;p&gt;This book delivers on a number of things you’d expect from Murakami; it’s surreal, has tonnes of references to 60/70/80s pop culture, plus detailed descriptions of cooking and characters getting on with life. There’s a lot to like, including a parallel story connected to the main narrative which felt similar to a Kafka novel. Alas, the sci-fi dystopian bent didn’t do anything for me. Talk about Semiotecs, shuffling and brain connections (etc.) I found more silly than surreal. It got pretty tedious. Ok but not one of his best books.
+&lt;p&gt;A reminder: push beyond your comfort zone to significantly improve. But make sure your technique is “good enough” to take the real or metaphorical weight.&lt;/p&gt;</content><author><name>sash</name></author><category term="life" /><category term="technique" /><category term="skill" /><category term="life" /><summary type="html">Push beyond your comfort zone without getting hurt.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/kettlebell.jpeg" /><media:content medium="image" url="https://kaufie.com/kettlebell.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Into Thin Air</title><link href="https://kaufie.com/into-thin-air-by-jon-krakauer" rel="alternate" type="text/html" title="Into Thin Air" /><published>2021-01-02T00:00:00+00:00</published><updated>2021-01-02T00:00:00+00:00</updated><id>https://kaufie.com/into-thin-air-by-jon-krakauer</id><content type="html" xml:base="https://kaufie.com/into-thin-air-by-jon-krakauer">&lt;p&gt;This is an account of the 1996 Everest disaster by a journalist who was with one of the groups. Eight climbers lost their lives; the author attempts to get to the heart of what happened up there. It’s rarely a single mistake that creates these events. In this case we learn about the commercialisation of Everest, the danger of inexperienced climbers paying to be taken up, the competition between tour groups and the myriad of human errors that happen when the brain is starved of oxygen. As fascinating as the subject is, the book is brilliantly written, with an engaging build up and a pace that keeps the page turning. This one went quickly.
+&lt;!--more--&gt;&lt;/p&gt;
+&lt;hr /&gt;</content><author><name></name></author><category term="notes" /><category term="adventure" /><category term="mountaineering" /><category term="survival" /><summary type="html">This is an account of the 1996 Everest disaster by a journalist who was with one of the groups. Eight climbers lost their lives; the author attempts to get to the heart of what happened up there. It’s rarely a single mistake that creates these events. In this case we learn about the commercialisation of Everest, the danger of inexperienced climbers paying to be taken up, the competition between tour groups and the myriad of human errors that happen when the brain is starved of oxygen. As fascinating as the subject is, the book is brilliantly written, with an engaging build up and a pace that keeps the page turning. This one went quickly.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/book-intothinair.jpg" /><media:content medium="image" url="https://kaufie.com/book-intothinair.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Hard Boiled Wonderland and the End of the World</title><link href="https://kaufie.com/hard-boiled-wonderland-and-the-end-of-the-world-by-haruki-murakami" rel="alternate" type="text/html" title="Hard Boiled Wonderland and the End of the World" /><published>2020-12-24T00:00:00+00:00</published><updated>2020-12-24T00:00:00+00:00</updated><id>https://kaufie.com/hard-boiled-wonderland-and-the-end-of-the-world-by-haruki-murakami</id><content type="html" xml:base="https://kaufie.com/hard-boiled-wonderland-and-the-end-of-the-world-by-haruki-murakami">&lt;p&gt;This book delivers on a number of things you’d expect from Murakami; it’s surreal, has tonnes of references to 60/70/80s pop culture, plus detailed descriptions of cooking and characters getting on with life. There’s a lot to like, including a parallel story connected to the main narrative which felt similar to a Kafka novel. Alas, the sci-fi dystopian bent didn’t do anything for me. Talk about Semiotecs, shuffling and brain connections (etc.) I found more silly than surreal. It got pretty tedious. Ok but not one of his best books.
 &lt;!--more--&gt;&lt;/p&gt;
 &lt;hr /&gt;
 
@@ -275,16 +354,4 @@
       &lt;li&gt;Control and monitoring: the chairperson. Discipline and focus. Who is in charge?&lt;/li&gt;
     &lt;/ul&gt;
   &lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="notes" /><category term="book" /><category term="business" /><category term="decisions" /><summary type="html">This is a simple method for approaching decisions that forces everyone to look from different angles, one at a time. The concept is great and I’d highly recommend this book as a way to raise awareness of the different ways of looking at problems. The book is short and it could be shorter. In practice the approach can seem infantilising, although I’m sure as de Bono claims, for some groups the method has worked wonders. For me the value is in its use on a personal level; noticing the different perspectives and using them…without annoying everyone by talking about hats.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/book-six-thinking-hats.jpg" /><media:content medium="image" url="https://kaufie.com/book-six-thinking-hats.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Buried Giant by Kazuo Ishiguro</title><link href="https://kaufie.com/the-buried-giant-by-kazuo-ishiguro" rel="alternate" type="text/html" title="The Buried Giant by Kazuo Ishiguro" /><published>2020-10-25T00:00:00+01:00</published><updated>2020-10-25T00:00:00+01:00</updated><id>https://kaufie.com/the-buried-giant-by-kazuo-ishiguro</id><content type="html" xml:base="https://kaufie.com/the-buried-giant-by-kazuo-ishiguro">&lt;p&gt;This novel is a tender fable about old age, marriage and past lives. In ancient Britain an elderly couple set off on a journey to find their son and on the way encounter a warrior, a knight and the source of their fading memory. I enjoyed the book; it’s original and I found it sad, sweet and memorable.&lt;/p&gt;
-
-&lt;!--more--&gt;
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;my-notes&quot;&gt;My notes&lt;/h2&gt;
-
-&lt;p&gt;Underlying messages are:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;Forgetting helps mend old wounds. It’s not always a bad thing.&lt;/li&gt;
-  &lt;li&gt;No marriage is perfect, you have to accept one another’s faults and misdeeds.&lt;/li&gt;
-  &lt;li&gt;People can change.&lt;/li&gt;
-&lt;/ul&gt;</content><author><name></name></author><category term="notes" /><category term="book" /><category term="fiction" /><category term="fable" /><summary type="html">This novel is a tender fable about old age, marriage and past lives. In ancient Britain an elderly couple set off on a journey to find their son and on the way encounter a warrior, a knight and the source of their fading memory. I enjoyed the book; it’s original and I found it sad, sweet and memorable.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/the-buried-giant.jpg" /><media:content medium="image" url="https://kaufie.com/the-buried-giant.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;/ul&gt;</content><author><name></name></author><category term="notes" /><category term="book" /><category term="business" /><category term="decisions" /><summary type="html">This is a simple method for approaching decisions that forces everyone to look from different angles, one at a time. The concept is great and I’d highly recommend this book as a way to raise awareness of the different ways of looking at problems. The book is short and it could be shorter. In practice the approach can seem infantilising, although I’m sure as de Bono claims, for some groups the method has worked wonders. For me the value is in its use on a personal level; noticing the different perspectives and using them…without annoying everyone by talking about hats.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/book-six-thinking-hats.jpg" /><media:content medium="image" url="https://kaufie.com/book-six-thinking-hats.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
