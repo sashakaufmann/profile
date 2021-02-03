@@ -1,13 +1,13 @@
 @charset "UTF-8";
-@font-face { font-family: "Bitter"; src: url("../fonts/Bitter-VariableFont_wght.ttf"); }
+@font-face { font-family: "Bitter"; src: url("/assets/fonts/Bitter-VariableFont_wght.ttf"); }
 
-@font-face { font-family: "BitterBold"; src: url("../fonts/Bitter-Medium.ttf"); }
+@font-face { font-family: "BitterBold"; src: url("/assets/fonts/Bitter-Medium.ttf"); }
 
-@font-face { font-family: "Raleway"; src: url("../fonts/Raleway-VariableFont_wght.ttf"); }
+@font-face { font-family: "Raleway"; src: url("/assets/fonts/Raleway-VariableFont_wght.ttf"); }
 
-@font-face { font-family: "Raleway-Italic"; src: url("../fonts/Raleway-Italic-VariableFont_wght.ttf"); }
+@font-face { font-family: "Raleway-Italic"; src: url("/assets/fonts/Raleway-Italic-VariableFont_wght.ttf"); }
 
-@font-face { font-family: "Raleway-SemiBold"; src: url("../fonts/Raleway-SemiBold.ttf"); }
+@font-face { font-family: "Raleway-SemiBold"; src: url("/assets/fonts/Raleway-SemiBold.ttf"); }
 
 i { font-family: "Raleway-Italic"; }
 
