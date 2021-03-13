@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://kaufie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kaufie.com/" rel="alternate" type="text/html" /><updated>2021-03-13T18:37:45+00:00</updated><id>https://kaufie.com/feed.xml</id><subtitle>Sasha Kaufmann's profile website and article archive.</subtitle><entry><title type="html">Chesterton’s fence</title><link href="https://kaufie.com/chestertons-fence" rel="alternate" type="text/html" title="Chesterton’s fence" /><published>2021-03-13T00:00:00+00:00</published><updated>2021-03-13T00:00:00+00:00</updated><id>https://kaufie.com/chestertons-fence</id><content type="html" xml:base="https://kaufie.com/chestertons-fence">&lt;p&gt;The Chesterton’s Fence principle is: &lt;b&gt;Before you make any rash reforms, understand why decisions were made in the first place.&lt;/b&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://kaufie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kaufie.com/" rel="alternate" type="text/html" /><updated>2021-03-13T18:40:48+00:00</updated><id>https://kaufie.com/feed.xml</id><subtitle>Sasha Kaufmann's profile website and article archive.</subtitle><entry><title type="html">Chesterton’s fence</title><link href="https://kaufie.com/chestertons-fence" rel="alternate" type="text/html" title="Chesterton’s fence" /><published>2021-03-13T00:00:00+00:00</published><updated>2021-03-13T00:00:00+00:00</updated><id>https://kaufie.com/chestertons-fence</id><content type="html" xml:base="https://kaufie.com/chestertons-fence">&lt;p&gt;The Chesterton’s Fence principle is: &lt;b&gt;Before you make any rash reforms, understand why decisions were made in the first place.&lt;/b&gt;&lt;/p&gt;
 
 &lt;p&gt;This is so simple that it sounds like common sense, but it’s easy to forget.&lt;/p&gt;
 
@@ -12,9 +12,11 @@
 
 &lt;p&gt;Management structures are a typical example of Chesterton’s fence. Without doubt they can be convoluted and unnecessary, but many organisations that get flattened go on to re-create them. It turns out they’re useful; supporting employees, providing clear and manageable communication channels and for decision making. Examples of lessons come from Google, Zappos, Medium and Github.&lt;/p&gt;
 
-&lt;p&gt;Let’s take it up a notch. As systems get more complex, so do the effects of changes we make. The environment provides many of examples, here are a couple:
-    - the American West’s prevention of small wildfires leading to less frequent but much bigger more damaging fires.
-    - a Chinese campaign to kill Sparrows to increase grain yields that actually decreased them since Sparrows eat a large amount of insects as well as the grains.&lt;/p&gt;
+&lt;p&gt;Let’s take it up a notch. As systems get more complex, so do the effects of changes we make. The environment provides many of examples, here are a couple:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;the American West’s prevention of small wildfires leading to less frequent but much bigger more damaging fires.&lt;/li&gt;
+  &lt;li&gt;a Chinese campaign to kill Sparrows to increase grain yields that actually decreased them since Sparrows eat a large amount of insects as well as the grains.&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;What we need to remember is to avoid making assumptions, to observe more, ask more questions and really understand past decisions before moving ahead. Returning to my own line of work, even things that are seemingly just plain wrong warrant time to ensure you know why they’re being done. Either you’ll be justified in the reform, discover and avert a hidden consequence, or simply learn something that lends weight to what you’re proposing.&lt;/p&gt;
 
