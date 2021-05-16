@@ -1,4 +1,339 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://kaufie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kaufie.com/" rel="alternate" type="text/html" /><updated>2021-05-10T12:56:44+01:00</updated><id>https://kaufie.com/feed.xml</id><subtitle>Sasha Kaufmann's profile website and article archive.</subtitle><entry><title type="html">Agent Zigzag by Ben Macintyre</title><link href="https://kaufie.com/agent-zigzag-by-ben-macntyre" rel="alternate" type="text/html" title="Agent Zigzag by Ben Macintyre" /><published>2021-05-02T00:00:00+01:00</published><updated>2021-05-02T00:00:00+01:00</updated><id>https://kaufie.com/agent-zigzag-by-ben-macntyre</id><content type="html" xml:base="https://kaufie.com/agent-zigzag-by-ben-macntyre">&lt;p&gt;The true story of one of Britain’s most notorious double agents, Eddie Chapman. A smooth criminal, prisoner, agent of German Abwehr and finally a British double agent. The lines between all his roles blurred and espionage gave him the same rush as crime. He may have been the kind of man who would look you in the eye as he picked your pocket, but what’s clear is that he did Britain a great service at a great deal of personal risk. A colourful character and a story so wild that you couldn’t have made it up; as with Macintyre’s other books I enjoyed every minute of it.&lt;!--more--&gt;&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.1.1">Jekyll</generator><link href="https://kaufie.com/feed.xml" rel="self" type="application/atom+xml" /><link href="https://kaufie.com/" rel="alternate" type="text/html" /><updated>2021-05-16T19:38:46+01:00</updated><id>https://kaufie.com/feed.xml</id><subtitle>Sasha Kaufmann's profile website and article archive.</subtitle><entry><title type="html">Accelerate - Building and Scaling High Performing Technology Organisations by Nicole Forsgren, Jez Humble, Gene Kim</title><link href="https://kaufie.com/accelerate-building-and-scaling-high-performing-technology-organisations-by-forsgren-humble-kim" rel="alternate" type="text/html" title="Accelerate - Building and Scaling High Performing Technology Organisations by Nicole Forsgren, Jez Humble, Gene Kim" /><published>2021-05-16T00:00:00+01:00</published><updated>2021-05-16T00:00:00+01:00</updated><id>https://kaufie.com/accelerate-building-and-scaling-high-performing-technology-organisations-by-forsgren-humble-kim</id><content type="html" xml:base="https://kaufie.com/accelerate-building-and-scaling-high-performing-technology-organisations-by-forsgren-humble-kim">&lt;p&gt;A spin-off from the State of DevOps surveys. This book presents the findings of their research in the form of capabilities that correlate to or predict performance in software organisations. A good high level overview of what will likely make your organisation better performing, but I found it a bit repetitive and the parts on how they carried out the survey were dull.&lt;!--more--&gt;&lt;/p&gt;
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Common traps
+    &lt;ul&gt;
+      &lt;li&gt;Top down mandate to adopt Agile.&lt;/li&gt;
+      &lt;li&gt;Thinking it’s one size fits all.&lt;/li&gt;
+      &lt;li&gt;Not focussing on measurement or the right things to measure.&lt;/li&gt;
+      &lt;li&gt;Leadership behaviour not changing.&lt;/li&gt;
+      &lt;li&gt;Treating transformation like a program instead of creating a learning organisation.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;24 capabilities that drive improvement in software performance, split into 5 categories.&lt;/li&gt;
+  &lt;li&gt;Measuring software delivery performance
+    &lt;ul&gt;
+      &lt;li&gt;Lead time&lt;/li&gt;
+      &lt;li&gt;Deployment frequency&lt;/li&gt;
+      &lt;li&gt;Mean Time to Restore (MTTR)&lt;/li&gt;
+      &lt;li&gt;Change Fail Percentage&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Maturity models are not the appropriate tool or mindset to have. Instead focus on a capabilities model of measurement.
+    &lt;ul&gt;
+      &lt;li&gt;The best organisations never call themselves “mature” as they are never done. Capabilities continually improve and progress - forever.&lt;/li&gt;
+      &lt;li&gt;Capabilities can be chosen from to suit organisational needs rather than a one size fits all maturity model.&lt;/li&gt;
+      &lt;li&gt;Capability models focus on key outcomes and how the capabilities drive improvement in these.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Unplanned work is described in The Visible Ops Handbook as the difference between “paying attention to the low fuel warning light on an automobile versus running out of gas on the highway”.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;h1 id=&quot;continuous-delivery&quot;&gt;Continuous delivery&lt;/h1&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Version control
+        &lt;ul&gt;
+          &lt;li&gt;eg. GutHub or Subversion for all production artefacts.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Deployment automation&lt;/li&gt;
+      &lt;li&gt;Continuous integration
+        &lt;ul&gt;
+          &lt;li&gt;Code is regularly checked in and each check-in triggers tests to discover serious regressions, which devs fix immediately.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Trunk-based development
+        &lt;ul&gt;
+          &lt;li&gt;Developing off trunk/master rather than long lived feature branches. Max 3 active branches in a repository. Branches with short lifetimes, less than a day before being merged into master, rarely or never having code freezes.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Test automation
+        &lt;ul&gt;
+          &lt;li&gt;That’s reliable - confident that failures indicate a real defect.&lt;/li&gt;
+          &lt;li&gt;Developers primarily create and maintain acceptance tests and they can easily reproduce and fix them on their development workstations.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Test data management&lt;/li&gt;
+      &lt;li&gt;Shift left on security
+        &lt;ul&gt;
+          &lt;li&gt;Design, demos, test automation (security features are tested as part of the automated test suite) - in a way that doesn’t slow down the development process&lt;/li&gt;
+          &lt;li&gt;Giving developers the means to build security in rather than Infosec doing security reviews.
+            &lt;ul&gt;
+              &lt;li&gt;Easier and avoids rework.&lt;/li&gt;
+              &lt;li&gt;Infosec teams don’t have the capacity to do security reviews when deployments are frequent.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Continuous delivery (CD)
+        &lt;ul&gt;
+          &lt;li&gt;The system is kept in a deployable state over working on new features.&lt;/li&gt;
+          &lt;li&gt;Build quality in
+            &lt;ul&gt;
+              &lt;li&gt;W. Edwards Deming stated “Cease dependence on inspection to achieve quality. Eliminate the need for inspection on a mass basis by building quality into the product in the first place”.&lt;/li&gt;
+              &lt;li&gt;Detect and fix issues quickly.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Work in small batches
+            &lt;ul&gt;
+              &lt;li&gt;‘even though working in small chunks adds some overhead, it reaps enormous rewards by allowing us to avoid work that delivers zero or negative value for our organisations’.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Computers perform repetitive tasks; people solve problems.
+            &lt;ul&gt;
+              &lt;li&gt;Such as regression testing and software deployments - simplify and automate.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Relentlessly pursue continuous improvement.&lt;/li&gt;
+          &lt;li&gt;Everyone is responsible.&lt;/li&gt;
+          &lt;li&gt;Foundations
+            &lt;ul&gt;
+              &lt;li&gt;Comprehensive configuration management&lt;/li&gt;
+              &lt;li&gt;Continuous integration (CI)&lt;/li&gt;
+              &lt;li&gt;Continuous testing
+                &lt;ul&gt;
+                  &lt;li&gt;Automated unit and acceptance tests should be run against every commit to version control - fast feedback.&lt;/li&gt;
+                  &lt;li&gt;Testers should be performing exploratory testing continuously against the latest builds to come out of CI.&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Requires a significant investment in test and deployment automation combined with relentless work to simplify architecture on an ongoing basis to ensure that this automation isn’t prohibitively expensive to create and maintain.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Leads to
+            &lt;ul&gt;
+              &lt;li&gt;High levels of software delivery performance (lead time, deploy frequency, time to restore service).&lt;/li&gt;
+              &lt;li&gt;Lower change fail rates.&lt;/li&gt;
+              &lt;li&gt;A generative, performance oriented culture.&lt;/li&gt;
+              &lt;li&gt;Lower levels of deployment pain.&lt;/li&gt;
+              &lt;li&gt;Reduced team burnout.&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h1 id=&quot;architecture&quot;&gt;Architecture&lt;/h1&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Loosely coupled architecture
+        &lt;ul&gt;
+          &lt;li&gt;Correlates to better performance, especially with scaling.&lt;/li&gt;
+          &lt;li&gt;“We can do most of our testing without requiring an integrated environment”.&lt;/li&gt;
+          &lt;li&gt;“We can deploy or release our application independently of other applications/services it depends on”.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Empowered teams
+        &lt;ul&gt;
+          &lt;li&gt;Without depending on other teams or systems.&lt;/li&gt;
+          &lt;li&gt;Giving them a choice of tools.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Notes
+        &lt;ul&gt;
+          &lt;li&gt;Low performers were found to be using or integrating with custom software provided by another company - this is why stuff should be brought in-house.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h1 id=&quot;product-and-process&quot;&gt;Product and process&lt;/h1&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Customer feedback.&lt;/li&gt;
+      &lt;li&gt;Value stream.&lt;/li&gt;
+      &lt;li&gt;Working in small batches.&lt;/li&gt;
+      &lt;li&gt;Team experimentation.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h1 id=&quot;lean-management-and-monitoring&quot;&gt;Lean management and monitoring&lt;/h1&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Change approval processes
+        &lt;ul&gt;
+          &lt;li&gt;keep it light.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Monitoring
+        &lt;ul&gt;
+          &lt;li&gt;across application and infrastructure to inform business decisions.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Proactive notification
+        &lt;ul&gt;
+          &lt;li&gt;of system health through monitoring. Preemptively detect and mitigate problems.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;WIP limits&lt;/li&gt;
+      &lt;li&gt;Visualising work&lt;/li&gt;
+      &lt;li&gt;notes
+        &lt;ul&gt;
+          &lt;li&gt;Burnout
+            &lt;ul&gt;
+              &lt;li&gt;Physical, mental or emotional exhaustion caused by overwork or stress but more than overworked or stressed. Makes things we once loved about our work feel insignificant and dull. Feeling of helplessness - correlated with pathological cultures and unproductive, wasteful work.&lt;/li&gt;
+              &lt;li&gt;avert by
+                &lt;ul&gt;
+                  &lt;li&gt;fostering a respectful, supportive work environment that emphisises learning from failures rather than blaming.&lt;/li&gt;
+                  &lt;li&gt;communicating a strong sense of purpose.&lt;/li&gt;
+                  &lt;li&gt;investing in employee development.&lt;/li&gt;
+                  &lt;li&gt;asking employees what is preventing them from achieving their objectives and then fixing those things.&lt;/li&gt;
+                  &lt;li&gt;giving employees time, space, and resources to experiment and learn.&lt;/li&gt;
+                  &lt;li&gt;giving employees authority to make decisions that affect their work and their jobs, particularly in areas where they are responsible for their outcomes.&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Six organisational risk factors that predict burnout (Leiter and Maslash 2008)
+                &lt;ul&gt;
+                  &lt;li&gt;Work overload: job demands exceed human limits.&lt;/li&gt;
+                  &lt;li&gt;Lack of control: inability to influence decisions that affect your job.&lt;/li&gt;
+                  &lt;li&gt;Insufficient rewards: insufficient financial, institutional or social rewards.&lt;/li&gt;
+                  &lt;li&gt;Breakdown of community: unsupportive workplace environment.&lt;/li&gt;
+                  &lt;li&gt;Absence of fairness: lack of fairness in decision making processes.&lt;/li&gt;
+                  &lt;li&gt;Value conflicts: mismatch in organisational values and the individual’s values.&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Employee satisfaction
+            &lt;ul&gt;
+              &lt;li&gt;“whilst this may seem like a simplistic measure, research has shown that NPS correlates to company growth in many industries (Reichheld 2003). Similar to company NPS, employee NPS (eNPS) is used to measure employee loyalty.” p104&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Transformational Leadership
+            &lt;ul&gt;
+              &lt;li&gt;means leaders inspiring and motivating followers to achieve higher performance by appealing to their values and sense of purpose, facilitating wide-scale organisational change.&lt;/li&gt;
+              &lt;li&gt;they found it was highly correlated with eNPS.&lt;/li&gt;
+              &lt;li&gt;5 traits from from Rafferty and Griffin 2004
+                &lt;ul&gt;
+                  &lt;li&gt;Vision
+                    &lt;ul&gt;
+                      &lt;li&gt;Has a clear understanding of where the organisation is going and where it should be in five years.&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;Inspirational communication
+                    &lt;ul&gt;
+                      &lt;li&gt;Communicates in a way that inspires and motivates, even in an uncertain or challenging environment.&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;Intellectual stimulation
+                    &lt;ul&gt;
+                      &lt;li&gt;Challenges followers to think about problems in new ways.&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;Supportive leadership
+                    &lt;ul&gt;
+                      &lt;li&gt;Demonstrates care and consideration of followers personal needs and feelings.&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                  &lt;li&gt;Personal recognition
+                    &lt;ul&gt;
+                      &lt;li&gt;Praises and acknowledges achievement of goals and improvements in work quality; personally compliments others when they do outstanding work.&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;h1 id=&quot;cultural&quot;&gt;Cultural&lt;/h1&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Westrum organisational culture
+        &lt;ul&gt;
+          &lt;li&gt;
+            &lt;ul&gt;
+              &lt;li&gt;&lt;strong&gt;Pathological&lt;/strong&gt;
+                &lt;ul&gt;
+                  &lt;li&gt;&lt;strong&gt;Bureaucratic&lt;/strong&gt;
+                    &lt;ul&gt;
+                      &lt;li&gt;&lt;strong&gt;Generative&lt;/strong&gt;&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Power oriented
+                &lt;ul&gt;
+                  &lt;li&gt;Rule oriented
+                    &lt;ul&gt;
+                      &lt;li&gt;Performance oriented&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Low cooperation
+                &lt;ul&gt;
+                  &lt;li&gt;Modest cooperation
+                    &lt;ul&gt;
+                      &lt;li&gt;High cooperation&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Messengers “shot”
+                &lt;ul&gt;
+                  &lt;li&gt;Messengers neglected
+                    &lt;ul&gt;
+                      &lt;li&gt;Messengers trained&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Responsibilities shirked
+                &lt;ul&gt;
+                  &lt;li&gt;Narrow responsibilities
+                    &lt;ul&gt;
+                      &lt;li&gt;Risks are shared&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Bridging discouraged
+                &lt;ul&gt;
+                  &lt;li&gt;Bridging tolerated
+                    &lt;ul&gt;
+                      &lt;li&gt;Bridging encouraged&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Failure leads to scapegoating
+                &lt;ul&gt;
+                  &lt;li&gt;Failure leads to justice
+                    &lt;ul&gt;
+                      &lt;li&gt;Failure leads to inquiry&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;Novelty crushed
+                &lt;ul&gt;
+                  &lt;li&gt;Novelty leads to problems
+                    &lt;ul&gt;
+                      &lt;li&gt;Novelty implemented&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Supporting learning&lt;/li&gt;
+      &lt;li&gt;Collaboration among teams&lt;/li&gt;
+      &lt;li&gt;Job satisfaction&lt;/li&gt;
+      &lt;li&gt;Transformational leadership&lt;/li&gt;
+      &lt;li&gt;Notes
+        &lt;ul&gt;
+          &lt;li&gt;Bureaucracy isn’t necessarily bad. Formulated by bureaucrats who are experts in their field, the rules would impose efficient structures and processes while guaranteeing fairness and eliminating arbitrariness.&lt;/li&gt;
+          &lt;li&gt;In a research project Google discovered that who is on a team matters less than how the team members interact, structure their work, and view their contributions.&lt;/li&gt;
+          &lt;li&gt;Human error should be the &lt;strong&gt;start&lt;/strong&gt; of an investigation. Our goal is to discover how to improve information flow so that people have better and more timely information and better tools to prevent catastrophic failure whilst following apparently mundane operations.&lt;/li&gt;
+          &lt;li&gt;The research shows that lean management, along with a set of other technical practices known collectively as continuous delivery do in fact impact culture and change the Westrum organisational culture.&lt;/li&gt;
+          &lt;li&gt;Many agile adoptions often treat technical practices as secondary compared to the management and team practices that so many frameworks emphasise. Our research shows that technical practices play a vital role in achieving these outcomes.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><category term="notes" /><category term="organisations" /><category term="software" /><category term="lean" /><category term="DevOps" /><summary type="html">A spin-off from the State of DevOps surveys. This book presents the findings of their research in the form of capabilities that correlate to or predict performance in software organisations. A good high level overview of what will likely make your organisation better performing, but I found it a bit repetitive and the parts on how they carried out the survey were dull.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/book-assets/book-accelerate.jpg" /><media:content medium="image" url="https://kaufie.com/book-assets/book-accelerate.jpg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Agent Zigzag by Ben Macintyre</title><link href="https://kaufie.com/agent-zigzag-by-ben-macntyre" rel="alternate" type="text/html" title="Agent Zigzag by Ben Macintyre" /><published>2021-05-02T00:00:00+01:00</published><updated>2021-05-02T00:00:00+01:00</updated><id>https://kaufie.com/agent-zigzag-by-ben-macntyre</id><content type="html" xml:base="https://kaufie.com/agent-zigzag-by-ben-macntyre">&lt;p&gt;The true story of one of Britain’s most notorious double agents, Eddie Chapman. A smooth criminal, prisoner, agent of German Abwehr and finally a British double agent. The lines between all his roles blurred and espionage gave him the same rush as crime. He may have been the kind of man who would look you in the eye as he picked your pocket, but what’s clear is that he did Britain a great service at a great deal of personal risk. A colourful character and a story so wild that you couldn’t have made it up; as with Macintyre’s other books I enjoyed every minute of it.&lt;!--more--&gt;&lt;/p&gt;
 &lt;hr /&gt;</content><author><name></name></author><category term="notes" /><category term="spy" /><category term="espionage" /><category term="ww2" /><summary type="html">The true story of one of Britain’s most notorious double agents, Eddie Chapman. A smooth criminal, prisoner, agent of German Abwehr and finally a British double agent. The lines between all his roles blurred and espionage gave him the same rush as crime. He may have been the kind of man who would look you in the eye as he picked your pocket, but what’s clear is that he did Britain a great service at a great deal of personal risk. A colourful character and a story so wild that you couldn’t have made it up; as with Macintyre’s other books I enjoyed every minute of it.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/book-assets/book-zigzag.jpeg" /><media:content medium="image" url="https://kaufie.com/book-assets/book-zigzag.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Working Backwards by Colin Bryar and Bill Carr</title><link href="https://kaufie.com/working-backwards-by-Colin-Bryar-and-Bill-Carr" rel="alternate" type="text/html" title="Working Backwards by Colin Bryar and Bill Carr" /><published>2021-04-24T00:00:00+01:00</published><updated>2021-04-24T00:00:00+01:00</updated><id>https://kaufie.com/working-backwards-by-Colin-Bryar-and-Bill-Carr</id><content type="html" xml:base="https://kaufie.com/working-backwards-by-Colin-Bryar-and-Bill-Carr">&lt;p&gt;Always interesting to get insider insight into the big successful companies. Colin and Bill were at Amazon practically from the start and had front row seats. I’d heard about a bunch of Amazon’s practices so it’s interesting to read the detail and what problems they solved for Amazon. Not a ground-breaking book on ways of working, but with enough insights and background to make it worth recommending.&lt;!--more--&gt;&lt;/p&gt;
 
 &lt;h1 id=&quot;notes&quot;&gt;Notes&lt;/h1&gt;
@@ -230,48 +565,4 @@ You can however lessen the impact of a change through communication activities, 
 
 &lt;p&gt;Kaizen, or continuous improvement is incremental change where the J curve is tiny for each small improvement or doesn’t exist at all.&lt;/p&gt;
 
-&lt;p&gt;I’ve seen this diagram in many formats over the years and believe the concept comes from David Viney’s ‘J curve effect observed in change’.&lt;/p&gt;</content><author><name>sash</name></author><category term="change" /><summary type="html">The effect of change.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/resources-assets/J-curve.png" /><media:content medium="image" url="https://kaufie.com/resources-assets/J-curve.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Power Broker by Robert A. Caro</title><link href="https://kaufie.com/the-power-broker-by-robert-a-caro" rel="alternate" type="text/html" title="The Power Broker by Robert A. Caro" /><published>2021-04-05T00:00:00+01:00</published><updated>2021-04-05T00:00:00+01:00</updated><id>https://kaufie.com/the-power-broker-by-robert-a-caro</id><content type="html" xml:base="https://kaufie.com/the-power-broker-by-robert-a-caro">&lt;p&gt;How the unelected Robert Moses built an empire of public authorities that gave him the power to defy Mayors, Governors and a President. The power to shape New York to his own will, which became the end unto itself. This book is a masterpiece; it speaks to Caro’s genius that pages and pages on politics, the passing of bills and construction can read ‘almost’ like a thriller. It’s heavy going but provides an outstanding insight into how Moses began to appreciate the need for power in order to get things done, and how that power corrupts.&lt;!--more--&gt;&lt;/p&gt;
-
-&lt;h1 id=&quot;notes&quot;&gt;Notes&lt;/h1&gt;
-
-&lt;h3 id=&quot;the-idealist&quot;&gt;The idealist&lt;/h3&gt;
-
-&lt;p&gt;After losing his job, having not made his dreams a reality “… idealism was gone from the stage.  In its place was an understanding that ideas – dreams – were useless without power to transform them into reality.”&lt;/p&gt;
-
-&lt;h3 id=&quot;the-reformer&quot;&gt;The reformer&lt;/h3&gt;
-
-&lt;p&gt;Working to reform the civil service, encounters subversive but not open opposition from the authorities. Delay tactics.&lt;/p&gt;
-
-&lt;h3 id=&quot;rise-to-power&quot;&gt;Rise to power&lt;/h3&gt;
-
-&lt;p&gt;Moving from being theoretical (forward thinking ideas) to practical (getting things done, compromise). Under Mrs Moskowitz.&lt;/p&gt;
-
-&lt;p&gt;Relationship with Al Smith, another remarkable character. Coming from poverty, becoming a champion of reform.&lt;/p&gt;
-
-&lt;p&gt;He became a creature of the machine.&lt;/p&gt;
-
-&lt;p&gt;Misleading and underestimating, in fact, might be the only way to get a project started.&lt;/p&gt;
-
-&lt;p&gt;Systems Thinking example. Moses’ bridges were intended to alleviate traffic problems but saw increased traffic and led to new congestion. New bridges were built but it continued to get worse. p519.&lt;/p&gt;
-
-&lt;p&gt;“By dumping a tremendous new load on the long island parkways, the Bronx Whitestone bridge made the traffic tie-ups on the noticeably worse.“&lt;/p&gt;
-
-&lt;h3 id=&quot;quotes&quot;&gt;Quotes&lt;/h3&gt;
-
-&lt;p&gt;“One must wait until the evening, to see how beautiful the day has been” - Sophocles&lt;/p&gt;
-
-&lt;p&gt;“As long as you’re on the side of parks, you’re on the side of the angels. You can’t lose.“&lt;/p&gt;
-
-&lt;p&gt;“Once you sync that first stake, they’ll never make you pull it up“.&lt;/p&gt;
-
-&lt;p&gt;“Hospitality has always been a potent political weapon. Moses used it like a master. Coupled with his overpowering personality, a buffet often did as much for a proposal as a bribe.”&lt;/p&gt;
-
-&lt;p&gt;“Science, knowledge, logic and brilliance might be useful tools but they didn’t build highways or civil service systems. Power built highways and civil service systems. Power was what dreams needed, not power in the hand of the dreamer himself necessarily but power put behind the dreamer’s dream by the man who it to put there, power that he termed “executive support”.”&lt;/p&gt;
-
-&lt;p&gt;Used in Albany “You can get an awful lot done in the world if you’re willing to let someone else take the credit for it.”&lt;/p&gt;
-
-&lt;p&gt;“Politics is a thieves game. Those who stay in it long enough are invariably robbed.”&lt;/p&gt;
-
-&lt;p&gt;“Bob Moses had learned what was needed to make dreams become realities. He had learned the lesson of power. And now he grabbed for power with both hands. To free his hands for the grab, he shook impatiently from them the last crumbs of the principles with which he had entered public service and for which, during his years of idealism, he had fought so hard.”&lt;/p&gt;
-
-&lt;p&gt;“…his success in public relations had been due primarily to his masterful utilization of a single public relations technique: identifying himself with a popular cause. This technique was especially advantageous to him because his philosophy–that accomplishment, Getting Things Done, is the only thing that matters, that the end justifies any means, however ruthless–might not be universally popular. By keeping the public eye focused on the cause, the end, the ultimate benefit to be obtained, the technique kept the public eye from focusing on the methods by which the method was to be obtained.”&lt;/p&gt;</content><author><name></name></author><category term="notes" /><category term="politics" /><category term="biography" /><summary type="html">How the unelected Robert Moses built an empire of public authorities that gave him the power to defy Mayors, Governors and a President. The power to shape New York to his own will, which became the end unto itself. This book is a masterpiece; it speaks to Caro’s genius that pages and pages on politics, the passing of bills and construction can read ‘almost’ like a thriller. It’s heavy going but provides an outstanding insight into how Moses began to appreciate the need for power in order to get things done, and how that power corrupts.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/book-assets/book-power-broker.jpeg" /><media:content medium="image" url="https://kaufie.com/book-assets/book-power-broker.jpeg" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
+&lt;p&gt;I’ve seen this diagram in many formats over the years and believe the concept comes from David Viney’s ‘J curve effect observed in change’.&lt;/p&gt;</content><author><name>sash</name></author><category term="change" /><summary type="html">The effect of change.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://kaufie.com/resources-assets/J-curve.png" /><media:content medium="image" url="https://kaufie.com/resources-assets/J-curve.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>
