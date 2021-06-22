@@ -1,4 +1,2 @@
 Sitemap: https://kaufie.com/sitemap.xml
 
-User-agent: *
-Disallow: /assets/
