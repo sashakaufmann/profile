@@ -291,9 +291,6 @@
 <loc>https://kaufie.com/articles</loc>
 </url>
 <url>
-<loc>https://kaufie.com/books</loc>
-</url>
-<url>
 <loc>https://kaufie.com/change</loc>
 </url>
 <url>
@@ -336,13 +333,16 @@
 <loc>https://kaufie.com/organisational-abilities</loc>
 </url>
 <url>
+<loc>https://kaufie.com/patterns</loc>
+</url>
+<url>
 <loc>https://kaufie.com/personal-projects</loc>
 </url>
 <url>
 <loc>https://kaufie.com/productivity</loc>
 </url>
 <url>
-<loc>https://kaufie.com/resources</loc>
+<loc>https://kaufie.com/projects</loc>
 </url>
 <url>
 <loc>https://kaufie.com/wisdom</loc>
